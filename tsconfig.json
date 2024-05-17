@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "sourceMap": true,
+    "strict": true,
+    "noUnusedParameters": true,
+    "outDir": "build/js"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

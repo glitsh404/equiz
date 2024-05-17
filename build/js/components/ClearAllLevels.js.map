@@ -1,0 +1,1 @@
+{"version":3,"file":"ClearAllLevels.js","sourceRoot":"","sources":["../../../src/ts/components/ClearAllLevels.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,WAAW,EAAC,MAAM,kBAAkB,CAAC;AAE7C,MAAM,cAAc,GAAG,GAAG,EAAE;IACxB,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,IAAI,WAAW,EAAE,CAAC,EAAE,EAAE;QACnC,YAAY,CAAC,UAAU,CAAC,WAAW,CAAC,EAAE,CAAC,CAAC;KAC3C;AACL,CAAC,CAAC;AAEF,eAAe,cAAc,CAAC"}

@@ -1,0 +1,91 @@
+@use "../helpers/var" as *;
+
+#chapters {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 5000;
+
+  .chapters-container {
+    transform: scale(0);
+    transition: 1s;
+    width: 50vw;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid $main_color;
+
+    .chapters-list-parent {
+      padding: 10px 20px;
+      height: 500px;
+      overflow: auto;
+
+      .chapter-card {
+        display: flex;
+        border-radius: 11px;
+        justify-content: space-around;
+        align-items: center;
+        background: rgba($main_color, 0.1);
+        padding: 15px 20px;
+        margin-bottom: 20px;
+        border-bottom: 1px solid rgba($sec_color, 0.1);
+        position: relative;
+
+
+        img {
+          width: 60px;
+          height: 60px;
+          border-radius: 45%;
+        }
+
+        h3 {
+          color: $main_color;
+          font-weight: 700;
+        }
+
+        .word {
+          font-size: 14px;
+          color: $main_color;
+        }
+      }
+    }
+
+    h2 {
+      text-align: center;
+      padding: 15px 0;
+      color: $main_color;
+    }
+  }
+
+  .chapters-empty {
+    display: block;
+    width: 80%;
+    height: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .empty-text {
+    position: absolute;
+    top: 55%;
+    left: 47%;
+    font-size: 20px;
+    transform: translate(-50%, -50%);
+    color: rgba(white, 0.9);
+    z-index: 225;
+  }
+
+  .chapter-scale {
+    transform: scale(1);
+  }
+}
+
+.completed-color {
+  color: #2dd284 !important;
+}
+
+.notCompleted-color {
+  color: #d85261 !important;
+}

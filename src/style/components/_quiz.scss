@@ -1,0 +1,119 @@
+@use "../helpers/var" as *;
+
+.quiz-parent {
+  background: rgba($main_color, 0.1);
+  width: 70%;
+  padding: 15px;
+  border-radius: 8px;
+
+  .exit {
+    margin-left: 15px;
+    color: $main_color;
+    border-bottom: 1px solid $main_color;
+    cursor: pointer;
+    width: max-content;
+    margin-bottom: 15px;
+  }
+
+  .quiz-info {
+    display: flex;
+    background: #fff;
+    padding: 20px;
+    flex-wrap: wrap;
+
+    .level {
+      flex: 2;
+    }
+
+    .count {
+      flex: 2;
+      text-align: right;
+    }
+  }
+
+  .quiz-area {
+    margin: 30px auto;
+    padding: 0 30px;
+    max-width: 100%;
+    word-break: break-word;
+  }
+
+  .custom_radio {
+    background: #fff;
+    padding: 20px;
+    margin-top: 15px;
+  }
+
+  .answers-area {
+    background: #fff;
+    padding: 20px;
+
+    .answer {
+      background: #f9f9f9;
+      padding: 20px 0;
+
+      input[type="radio"]:checked + label {
+        color: $main_color
+      }
+
+      label {
+        cursor: pointer;
+        font-weight: 300;
+        margin-left: 10px;
+      }
+    }
+
+    .answer:not(:last-child) {
+      border-bottom: 1px solid #dfdfdf;
+    }
+  }
+
+  .bullets {
+    border-top: 1px solid #dfdfdf;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    padding: 20px;
+
+    .count-down {
+      margin-bottom: 18px;
+    }
+
+    .spans {
+      flex: 1;
+      display: flex;
+      flex-wrap: wrap;
+
+      span {
+        width: 35px;
+        height: 35px;
+        background: #eee;
+        margin-right: 5px;
+        border-radius: 50%;
+        margin-bottom: 20px;
+      }
+
+      .on {
+        background: $main_color;
+      }
+
+      span.goodChoose {
+        background-color: unset;
+        background-image: url(images/checked.png) !important;
+        background-size: cover;
+        background-position: center;
+        padding: 0;
+      }
+
+      span.badChoose {
+        background-color: unset;
+        background-image: url(images/cancel.png) !important;
+        background-size: cover;
+        background-position: center;
+        padding: 0;
+      }
+    }
+  }
+
+}

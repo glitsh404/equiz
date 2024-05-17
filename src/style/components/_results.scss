@@ -1,0 +1,28 @@
+.msg {
+  padding: 20px 30px;
+  border-radius: 7px;
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+
+  img {
+    width: 100px;
+    height: 100px;
+    margin-left: 60px;
+  }
+}
+
+.msg.good {
+  background: rgba(#4BB543, .2);
+  border-bottom: 6px solid #4BB543;
+}
+
+.msg.bad {
+  background: rgba(#FF9494, .2);
+  border-bottom: 6px solid #FF9494;
+}
+
+.msg.perfect {
+  background: rgba(#52b69a, .2);
+  border-bottom: 6px solid #52b69a;
+}

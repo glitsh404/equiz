@@ -1,0 +1,4070 @@
+{
+  "level1": [
+    {
+      "title": "Where is _______ classroom? We can’t find it.",
+      "a_1": "ours",
+      "a_2": "them",
+      "a_3": "theirs",
+      "a_4": "our",
+      "right_a": "our"
+    },
+    {
+      "title": "What kind of possessive is hers?",
+      "a_1": "possessive adjective",
+      "a_2": "possessive pronoun",
+      "a_3": "possessive verb",
+      "a_4": "No right answer",
+      "right_a": "possessive adjective"
+    },
+    {
+      "title": "The bicycles were _________, so they rode them home after school.",
+      "a_1": "ours",
+      "a_2": "theirs",
+      "a_3": "our",
+      "a_4": "their",
+      "right_a": "theirs"
+    },
+    {
+      "title": "Excuse me. This phone is __________. You forgot to take it with you.",
+      "a_1": "your",
+      "a_2": "yours",
+      "a_3": "mine",
+      "a_4": "my",
+      "right_a": "yours"
+    },
+    {
+      "title": "Ana and Elsa like _______ new teacher.",
+      "a_1": "their",
+      "a_2": "hers",
+      "a_3": "theirs",
+      "a_4": "her",
+      "right_a": "their"
+    },
+    {
+      "title": "Do you think your father likes _____birthday present?",
+      "a_1": "my",
+      "a_2": "your",
+      "a_3": "his",
+      "a_4": "our",
+      "right_a": "his"
+    },
+    {
+      "title": "Brazil is located in South America. _______ capital city is Brasilia.",
+      "a_1": "their",
+      "a_2": "theirs",
+      "a_3": "its",
+      "a_4": "it",
+      "right_a": "its"
+    },
+    {
+      "title": "This is ________ - you ordered the pizza. I ordered the spaghetti.",
+      "a_1": "mine",
+      "a_2": "my",
+      "a_3": "your",
+      "a_4": "yours",
+      "right_a": "yours"
+    },
+    {
+      "title": "Did the cat eat all of _______ food?",
+      "a_1": "her",
+      "a_2": "his",
+      "a_3": "its",
+      "a_4": "it",
+      "right_a": "its"
+    },
+    {
+      "title": "Which possessive comes before a noun?",
+      "a_1": "possessive adjective",
+      "a_2": "possessive pronoun",
+      "a_3": "possessive verbs",
+      "a_4": "No right answer",
+      "right_a": "possessive adjective"
+    },
+    {
+      "title": "I think these keys are _______________. I left them on the table.",
+      "a_1": "your",
+      "a_2": "yours",
+      "a_3": "mine",
+      "a_4": "my",
+      "right_a": "mine"
+    },
+    {
+      "title": "I think these keys are _________. You left them on the table.",
+      "a_1": "my",
+      "a_2": "mine",
+      "a_3": "yours",
+      "a_4": "your",
+      "right_a": "yours"
+    },
+    {
+      "title": "Tinned",
+      "a_1": "صلصة",
+      "a_2": "شعرية",
+      "a_3": "علبة حليب",
+      "a_4": "معلب",
+      "right_a": "معلب"
+    },
+    {
+      "title": "Nuts",
+      "a_1": "مكسرات",
+      "a_2": "بسكويت",
+      "a_3": "جلي",
+      "a_4": "مكرونة",
+      "right_a": "مكسرات"
+    },
+    {
+      "title": "Snack",
+      "a_1": "وجبة خفيفة",
+      "a_2": "وجبة",
+      "a_3": "ملح",
+      "a_4": "مفتت",
+      "right_a": "وجبة خفيفة"
+    },
+    {
+      "title": "Afraid",
+      "a_1": "accept",
+      "a_2": "scared",
+      "a_3": "arrive",
+      "a_4": "hide",
+      "right_a": "scared"
+    },
+    {
+      "title": "Clever",
+      "a_1": "creative",
+      "a_2": "before",
+      "a_3": "patch",
+      "a_4": "ploy",
+      "right_a": "creative"
+    },
+    {
+      "title": "Hide",
+      "a_1": "patch",
+      "a_2": "stash",
+      "a_3": "happy",
+      "a_4": "declare",
+      "right_a": "stash"
+    },
+    {
+      "title": "well",
+      "a_1": "pleased",
+      "a_2": "reply",
+      "a_3": "safe",
+      "a_4": "alright",
+      "right_a": "alright"
+    },
+    {
+      "title": "answer",
+      "a_1": "secure",
+      "a_2": "request",
+      "a_3": "call",
+      "a_4": "reply",
+      "right_a": "reply"
+    },
+    {
+      "title": "What do you mean?",
+      "a_1": "asking for more information",
+      "a_2": "asking for get married",
+      "a_3": "1, 2",
+      "a_4": "no answer",
+      "right_a": "asking for more information"
+    },
+    {
+      "title": "Is that clear?",
+      "a_1": "to check if the place if clear",
+      "a_2": "to check if the customer is good",
+      "a_3": "to check if the other person understands you",
+      "a_4": "no answer",
+      "right_a": "to check if the other person understands you"
+    },
+    {
+      "title": "angry",
+      "a_1": "irate",
+      "a_2": "base",
+      "a_3": "creative",
+      "a_4": "attack",
+      "right_a": "irate"
+    },
+    {
+      "title": "trick",
+      "a_1": "alright",
+      "a_2": "done",
+      "a_3": "ploy",
+      "a_4": "median",
+      "right_a": "ploy"
+    },
+    {
+      "title": "median",
+      "a_1": "safe",
+      "a_2": "trick",
+      "a_3": "well",
+      "a_4": "middle",
+      "right_a": "middle"
+    },
+    {
+      "title": "I really like my new home, especially _______ location.",
+      "a_1": "its",
+      "a_2": "it",
+      "a_3": "our",
+      "a_4": "my",
+      "right_a": "its"
+    },
+    {
+      "title": "A: Where is _______ brother? <br> B: My brother is at school.",
+      "a_1": "my",
+      "a_2": "his",
+      "a_3": "your",
+      "a_4": "our",
+      "right_a": "your"
+    },
+    {
+      "title": "Her sister drew the picture. It’s _______.",
+      "a_1": "her",
+      "a_2": "our",
+      "a_3": "your",
+      "a_4": "hers",
+      "right_a": "hers"
+    },
+    {
+      "title": "This car belongs to the Smith's. It is ________.",
+      "a_1": "his",
+      "a_2": "theirs",
+      "a_3": "their",
+      "a_4": "him",
+      "right_a": "his"
+    },
+    {
+      "title": "How is it going?",
+      "a_1": "this good",
+      "a_2": "how are they",
+      "a_3": "no problem",
+      "a_4": "no answer",
+      "right_a": "no answer"
+    }
+  ],
+  "level2": [
+    {
+      "title": "adventure",
+      "a_1": "experience",
+      "a_2": "movie",
+      "a_3": "effect",
+      "a_4": "trial",
+      "right_a": "experience"
+    },
+    {
+      "title": "laboratory",
+      "a_1": "laude",
+      "a_2": "rumpus",
+      "a_3": "fright",
+      "a_4": "workshop",
+      "right_a": "workshop"
+    },
+    {
+      "title": "experiment",
+      "a_1": "destroy",
+      "a_2": "trial",
+      "a_3": "effect",
+      "a_4": "tense",
+      "right_a": "trial"
+    },
+    {
+      "title": "fright",
+      "a_1": "secret",
+      "a_2": "shout",
+      "a_3": "scare",
+      "a_4": "smell",
+      "right_a": "scare"
+    },
+    {
+      "title": "smell",
+      "a_1": "create",
+      "a_2": "noise",
+      "a_3": "tense",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "create",
+      "a_1": "trial",
+      "a_2": "noise",
+      "a_3": "make",
+      "a_4": "No right answer",
+      "right_a": "make"
+    },
+    {
+      "title": "baleful",
+      "a_1": "evil",
+      "a_2": "tense",
+      "a_3": "shout",
+      "a_4": "No right answer",
+      "right_a": "evil"
+    },
+    {
+      "title": "scream",
+      "a_1": "trial",
+      "a_2": "tense",
+      "a_3": "workshop",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "frightening",
+      "a_1": "worse",
+      "a_2": "terrible",
+      "a_3": "deteriorated",
+      "a_4": "No right answer",
+      "right_a": "terrible"
+    },
+    {
+      "title": "noise",
+      "a_1": "loud",
+      "a_2": "nervous",
+      "a_3": "create",
+      "a_4": "No right answer",
+      "right_a": "loud"
+    },
+    {
+      "title": "deteriorated",
+      "a_1": "project",
+      "a_2": "loud",
+      "a_3": "worse",
+      "a_4": "No right answer",
+      "right_a": "worse"
+    },
+    {
+      "title": "(What is the correct plural) <br> The (woman) _____ over there want to meet the manager.",
+      "a_1": "womans",
+      "a_2": "womens",
+      "a_3": "people",
+      "a_4": "women",
+      "right_a": "women"
+    },
+    {
+      "title": "(What is the correct plural) <br> My (child) _____ hate eating pasta.",
+      "a_1": "childs",
+      "a_2": "childrens",
+      "a_3": "children",
+      "a_4": "No right answer",
+      "right_a": "children"
+    },
+    {
+      "title": "(What is the correct plural) <br> I am ill. My (foot) _____ hurt.",
+      "a_1": "feet",
+      "a_2": "foots",
+      "a_3": "legs",
+      "a_4": "No right answer",
+      "right_a": "feet"
+    },
+    {
+      "title": "(What is the correct plural) <br> Muslims sacrifice (sheep) _____ in a religious celebration called Eid Al Adha.",
+      "a_1": "sheeps",
+      "a_2": "shoop",
+      "a_3": "sheep",
+      "a_4": "No right answer",
+      "right_a": "sheep"
+    },
+    {
+      "title": "(What is the correct plural) <br> I clean my (tooth) _____ three times a day.",
+      "a_1": "teeth",
+      "a_2": "tooths",
+      "a_3": "tooth",
+      "a_4": "No right answer",
+      "right_a": "teeth"
+    },
+    {
+      "title": "(What is the correct plural) <br> The (fish) _____ I bought is in the fridge.",
+      "a_1": "fishs",
+      "a_2": "feesh",
+      "a_3": "fishes",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "(What is the correct plural) <br> They are sending some (man) _____ to fix the roof.",
+      "a_1": "mans",
+      "a_2": "man",
+      "a_3": "men",
+      "a_4": "No right answer",
+      "right_a": "men"
+    },
+    {
+      "title": "(What is the correct plural) <br> Most (houswife) _____ work more than ten hours a day at home.",
+      "a_1": "housewifes",
+      "a_2": "houseswife",
+      "a_3": "housewives",
+      "a_4": "No right answer",
+      "right_a": "housewives"
+    },
+    {
+      "title": "(What is the correct plural) <br> Where did you put the (knife) _____ ? <br>On the (shelf) _____ .",
+      "a_1": "knifes, shelfes",
+      "a_2": "knives, shelfes",
+      "a_3": "knives, shelves",
+      "a_4": "No right answer",
+      "right_a": "knives, shelves"
+    },
+    {
+      "title": "(What is the correct plural) <br> (Goose) _____ like water.",
+      "a_1": "Gooses",
+      "a_2": "Gooseses",
+      "a_3": "Geese",
+      "a_4": "No right answer",
+      "right_a": "Geese"
+    },
+    {
+      "title": "Write the plural <br> (city)",
+      "a_1": "cities",
+      "a_2": "city",
+      "a_3": "cityes",
+      "a_4": "No right answer",
+      "right_a": "cities"
+    },
+    {
+      "title": "Write the plural <br> life",
+      "a_1": "lives",
+      "a_2": "lifes",
+      "a_3": "live",
+      "a_4": "No right answer",
+      "right_a": "lives"
+    },
+    {
+      "title": "Present Continuous <br> _____ they coming over for dinner?",
+      "a_1": "are",
+      "a_2": "will",
+      "a_3": "are gonna",
+      "a_4": "No right answer",
+      "right_a": "are"
+    },
+    {
+      "title": "Present Continuous <br> Maxwell _____ not sleeping on our sofa.",
+      "a_1": "is",
+      "a_2": "will",
+      "a_3": "is gonna",
+      "a_4": "No right answer",
+      "right_a": "is"
+    },
+    {
+      "title": "My mother-in-law is _____ at our house this week.",
+      "a_1": "stay",
+      "a_2": "staying",
+      "a_3": "be staying",
+      "a_4": "staying",
+      "right_a": "staying"
+    },
+    {
+      "title": "I _____ my dinner right now.",
+      "a_1": "eat",
+      "a_2": "eating",
+      "a_3": "am eating",
+      "a_4": "No right answer",
+      "right_a": "am eating"
+    },
+    {
+      "title": "My sister _____ Spanish.",
+      "a_1": "learn",
+      "a_2": "is learning",
+      "a_3": "learning",
+      "a_4": "No right answer",
+      "right_a": "is learning"
+    },
+    {
+      "title": "I _____ at the hair salon until September.",
+      "a_1": "work",
+      "a_2": "be working",
+      "a_3": "am working",
+      "a_4": "No right answer",
+      "right_a": "am working"
+    },
+    {
+      "title": "We _____ at a fancy restaurant tonight. Jason decided this yesterday.",
+      "a_1": "eat",
+      "a_2": "are eating",
+      "a_3": "eats",
+      "a_4": "No right answer",
+      "right_a": "are eating"
+    },
+    {
+      "title": "Why ________ playing football tomorrow?",
+      "a_1": "he not is",
+      "a_2": "he isn't",
+      "a_3": "isn't he",
+      "a_4": "No right answer",
+      "right_a": "isn't he"
+    },
+    {
+      "title": "They are _____ a new shopping mall downtown.",
+      "a_1": "opens",
+      "a_2": "openning",
+      "a_3": "oppening",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Melissa is _____ down on her bed.",
+      "a_1": "lieing",
+      "a_2": "liying",
+      "a_3": "lyes",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Look at _____ birds up there in the tree.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "Are _____ your books over there on the table?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "My umbrella is right here. _____ is my umbrella.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "this"
+    },
+    {
+      "title": "Those apples are red, but _____ apples over here are green.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "these"
+    },
+    {
+      "title": "Did you and your family stay at _____ hotel in Paris?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "Please come here and look at _____ picture.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "this"
+    },
+    {
+      "title": "Who was _____ man you talked to yesterday?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "Can you see _____ fishing boats on",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "Hello, Dr. Smith. Could you please look at _____ cut on my finger?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "this"
+    },
+    {
+      "title": "Maybe we can ask _____ policeman for directions.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "_____ was a difficult test we had last week.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "How many of _____ cookies would you like? Two? Okay, here you are.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "these"
+    },
+    {
+      "title": "_____ movie we saw last night was really great!",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "_____ cake is delicious. When I finish it, could I please have another slice?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "this"
+    },
+    {
+      "title": "Do you know _____ person over there by the post office?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "Do you think _____ sixteen grammar questions are easy or difficult?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "these"
+    },
+    {
+      "title": "_____ is my friend Julie.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "this"
+    },
+    {
+      "title": "Who is _____ ? (On the telephone.)",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "_____ book (the one I’m holding) is really good.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "this"
+    },
+    {
+      "title": "_____’s my brother, over there.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "What are _____ <br> (things near you)?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "_____ strawberries are delicious (the bowl is in front of me on the table).",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "these"
+    },
+    {
+      "title": "_____ party is really fun. (We’re at the party now.)",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "this"
+    },
+    {
+      "title": "_____ show we saw last week was so depressing!",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "_____ painting (that we saw yesterday) was really beautiful.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": " I really liked _____ cakes. (I’m talking about the cakes we ate last week.)",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "_____’s a great idea! (the idea you explained to me.)",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "David, _____ is Lukas.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "this"
+    },
+    {
+      "title": " Who is _____ woman by the door?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "_____ are fabulous trousers! (That you’re wearing.)",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "_____ people we met last night were really nice.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "_____’s right! (The thing that you said is right)",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "Where is _______ classroom? We can’t find it.",
+      "a_1": "ours",
+      "a_2": "them",
+      "a_3": "theirs",
+      "a_4": "our",
+      "right_a": "our"
+    },
+    {
+      "title": "What kind of possessive is hers?",
+      "a_1": "possessive adjective",
+      "a_2": "possessive pronoun",
+      "a_3": "possessive verb",
+      "a_4": "No right answer",
+      "right_a": "possessive adjective"
+    },
+    {
+      "title": "The bicycles were _________, so they rode them home after school.",
+      "a_1": "ours",
+      "a_2": "theirs",
+      "a_3": "our",
+      "a_4": "their",
+      "right_a": "theirs"
+    },
+    {
+      "title": "Excuse me. This phone is __________. You forgot to take it with you.",
+      "a_1": "your",
+      "a_2": "yours",
+      "a_3": "mine",
+      "a_4": "my",
+      "right_a": "yours"
+    },
+    {
+      "title": "Ana and Elsa like _______ new teacher.",
+      "a_1": "their",
+      "a_2": "hers",
+      "a_3": "theirs",
+      "a_4": "her",
+      "right_a": "their"
+    },
+    {
+      "title": "Do you think your father likes _____birthday present?",
+      "a_1": "my",
+      "a_2": "your",
+      "a_3": "his",
+      "a_4": "our",
+      "right_a": "his"
+    },
+    {
+      "title": "Brazil is located in South America. _______ capital city is Brasilia.",
+      "a_1": "their",
+      "a_2": "theirs",
+      "a_3": "its",
+      "a_4": "it",
+      "right_a": "its"
+    },
+    {
+      "title": "This is ________ - you ordered the pizza. I ordered the spaghetti.",
+      "a_1": "mine",
+      "a_2": "my",
+      "a_3": "your",
+      "a_4": "yours",
+      "right_a": "yours"
+    },
+    {
+      "title": "Did the cat eat all of _______ food?",
+      "a_1": "her",
+      "a_2": "his",
+      "a_3": "its",
+      "a_4": "it",
+      "right_a": "its"
+    },
+    {
+      "title": "Which possessive comes before a noun?",
+      "a_1": "possessive adjective",
+      "a_2": "possessive pronoun",
+      "a_3": "possessive verbs",
+      "a_4": "No right answer",
+      "right_a": "possessive adjective"
+    },
+    {
+      "title": "I think these keys are _______________. I left them on the table.",
+      "a_1": "your",
+      "a_2": "yours",
+      "a_3": "mine",
+      "a_4": "my",
+      "right_a": "mine"
+    },
+    {
+      "title": "Tinned",
+      "a_1": "صلصة",
+      "a_2": "شعرية",
+      "a_3": "علبة حليب",
+      "a_4": "معلب",
+      "right_a": "معلب"
+    },
+    {
+      "title": "Nuts",
+      "a_1": "مكسرات",
+      "a_2": "بسكويت",
+      "a_3": "جلي",
+      "a_4": "مكرونة",
+      "right_a": "مكسرات"
+    },
+    {
+      "title": "Snack",
+      "a_1": "وجبة خفيفة",
+      "a_2": "وجبة",
+      "a_3": "ملح",
+      "a_4": "مفتت",
+      "right_a": "وجبة خفيفة"
+    },
+    {
+      "title": "Afraid",
+      "a_1": "accept",
+      "a_2": "scared",
+      "a_3": "arrive",
+      "a_4": "hide",
+      "right_a": "scared"
+    },
+    {
+      "title": "Clever",
+      "a_1": "creative",
+      "a_2": "before",
+      "a_3": "patch",
+      "a_4": "ploy",
+      "right_a": "creative"
+    }
+  ],
+  "level3": [
+    {
+      "title": "When responding good news we say _______",
+      "a_1": "that's great!",
+      "a_2": "that's bad",
+      "a_3": "good!",
+      "a_4": "No right answer",
+      "right_a": "that's great!"
+    },
+    {
+      "title": "When responding bad news we say _______",
+      "a_1": "i'm so sorry to hear that",
+      "a_2": "that's very bad!",
+      "a_3": "so bad",
+      "a_4": "that's great!",
+      "right_a": "i'm so sorry to hear that"
+    },
+    {
+      "title": "ever",
+      "a_1": "fail",
+      "a_2": "kind",
+      "a_3": "always",
+      "a_4": "many",
+      "right_a": "always"
+    },
+    {
+      "title": "fail",
+      "a_1": "lose",
+      "a_2": "kind",
+      "a_3": "reading-room",
+      "a_4": "answer",
+      "right_a": "lose"
+    },
+    {
+      "title": "view",
+      "a_1": "universe",
+      "a_2": "solve",
+      "a_3": "look",
+      "a_4": "No right answer",
+      "right_a": "look"
+    },
+    {
+      "title": "library",
+      "a_1": "kind",
+      "a_2": "reading-room",
+      "a_3": "describe",
+      "a_4": "chart",
+      "right_a": "reading-room"
+    },
+    {
+      "title": "chart",
+      "a_1": "haze",
+      "a_2": "diagram",
+      "a_3": "define",
+      "a_4": "grade",
+      "right_a": "diagram"
+    },
+    {
+      "title": "instead",
+      "a_1": "answer",
+      "a_2": "without any warning",
+      "a_3": "guess",
+      "a_4": "alternatively",
+      "right_a": "alternatively"
+    },
+    {
+      "title": "suddenly",
+      "a_1": "planet",
+      "a_2": "look",
+      "a_3": "guess",
+      "a_4": "without any warning",
+      "right_a": "without any warning"
+    },
+    {
+      "title": "many",
+      "a_1": "several",
+      "a_2": "library",
+      "a_3": "cosmos",
+      "a_4": "No right answer",
+      "right_a": "several"
+    },
+    {
+      "title": "report",
+      "a_1": "many",
+      "a_2": "answer",
+      "a_3": "guess",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "suppose",
+      "a_1": "cosmos",
+      "a_2": "guess",
+      "a_3": "several",
+      "a_4": "No right answer",
+      "right_a": "guess"
+    },
+    {
+      "title": "Make the present simple <br> (he / drive to work every day)",
+      "a_1": "He drive to work every day",
+      "a_2": "He drives to work every day",
+      "a_3": "He driving to work every day",
+      "a_4": "No right answer",
+      "right_a": "He drives to work every day"
+    },
+    {
+      "title": "Make the present simple <br> (I / not / think you're right)",
+      "a_1": "I don't thinks you're right.",
+      "a_2": "I don't think you right.",
+      "a_3": "I don't think you're right.",
+      "a_4": "No right answer",
+      "right_a": "I don't think you're right."
+    },
+    {
+      "title": "Make the present simple <br> (we / have enough time)?",
+      "a_1": "are we have enough time?",
+      "a_2": "Does we have enough time?",
+      "a_3": "Do we have enough time?",
+      "a_4": "No right answer",
+      "right_a": "Do we have enough time?"
+    },
+    {
+      "title": "Make the present simple <br> (I / eat cereal in the morning)",
+      "a_1": "I eats cereal in the morning.",
+      "a_2": "I'm eat cereal in the morning.",
+      "a_3": "I eating cereal in the morning.",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Make the present simple <br> (they / write e-mails every day)?",
+      "a_1": "Did they write e-mails every day?",
+      "a_2": "Does they write e-mails every day?",
+      "a_3": "are they write e-mails every day?",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Make the present simple <br> (you / watch a lot of TV)",
+      "a_1": "You're watching a lot of TV.",
+      "a_2": "You watches a lot of TV.",
+      "a_3": "You watch a lot of TV.",
+      "a_4": "No right answer",
+      "right_a": "You watch a lot of TV."
+    },
+    {
+      "title": "Make the present simple <br> (he / not / read the newspaper)",
+      "a_1": "He doesn't read the newspaper.",
+      "a_2": "He isn't read the newspaper.",
+      "a_3": "He didn't read the newspaper.",
+      "a_4": "No right answer",
+      "right_a": "He doesn't read the newspaper."
+    },
+    {
+      "title": "Make the present simple <br> (she / dance often)?",
+      "a_1": "Does she dances often?",
+      "a_2": "Does she dance often?",
+      "a_3": "Did she dance often?",
+      "a_4": "No right answer",
+      "right_a": "Does she dance often? "
+    },
+    {
+      "title": "Make the present simple <br> (where / I / come on Mondays)?",
+      "a_1": "Where am I come on Mondays?",
+      "a_2": "Where does I come on Mondays?",
+      "a_3": "Where do I comes on Mondays?",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Make the present simple <br> (what / you / do at the weekend)?",
+      "a_1": "What does you do at the weekend?",
+      "a_2": "What do you does at the weekend?",
+      "a_3": "What did you do at the weekend?",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Make the present simple <br> you / not / drink much tea",
+      "a_1": "You don't drinks much tea.",
+      "a_2": "You doesn't drink much tea.",
+      "a_3": "You don't drink much tea.",
+      "a_4": "No right answer",
+      "right_a": "You don't drink much tea."
+    },
+    {
+      "title": "Make the present simple <br> (how / he / travel to work)?",
+      "a_1": "How is he traveling to work?",
+      "a_2": "How does he travels to work?",
+      "a_3": "How does he travel to work?",
+      "a_4": "No right answer",
+      "right_a": "How does he travel to work?"
+    },
+    {
+      "title": "Make the present simple <br> (they / not / like vegetables)",
+      "a_1": "They aren't like vegetables.",
+      "a_2": "They don't likes vegetables.",
+      "a_3": "They don't like vegetables.",
+      "a_4": "No right answer",
+      "right_a": "They don't like vegetables."
+    },
+    {
+      "title": "Make the present simple <br> (she / catch a cold every winter)",
+      "a_1": "She catch a cold every winter.",
+      "a_2": "She catchs a cold every winter.",
+      "a_3": "She catching a cold every winter.",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Make the present simple <br> (I / go out often)?",
+      "a_1": "Am I go out often?",
+      "a_2": "Does I go out often?",
+      "a_3": "Do I go out often?",
+      "a_4": "No right answer",
+      "right_a": "Do I go out often? "
+    },
+    {
+      "title": "Make the present simple <br> (you / speak English)?",
+      "a_1": "Are you speak English?",
+      "a_2": "Did you speak English?",
+      "a_3": "Do you speak English?",
+      "a_4": "No right answer",
+      "right_a": "Do you speak English?"
+    },
+    {
+      "title": "Make the present simple <br> (we / take the bus often)",
+      "a_1": "We takes the bus often.",
+      "a_2": "We take the bus often.",
+      "a_3": "We are take the bus often.",
+      "a_4": "No right answer",
+      "right_a": "We take the bus often."
+    },
+    {
+      "title": "Make the present simple <br> (she / not / walk to school)",
+      "a_1": "She isn't walking to school.",
+      "a_2": "She doesn't walk to school.",
+      "a_3": "She don't walk to school.",
+      "a_4": "No right answer",
+      "right_a": "She doesn't walk to school."
+    },
+    {
+      "title": "Make the present simple <br> (what / you / buy in the supermarket)?",
+      "a_1": "What are you buying in the supermarket?",
+      "a_2": "What do you buys in the supermarket?",
+      "a_3": "What do you buy in the supermarket?",
+      "a_4": "No right answer",
+      "right_a": "What do you buy in the supermarket?"
+    },
+    {
+      "title": "Make the present simple <br> (how / he / carry such a heavy bag)?",
+      "a_1": "How is he carry such a heavy bag?",
+      "a_2": "How is he carrying such a heavy bag?",
+      "a_3": "How did he carry such a heavy bag?",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Make the present simple <br> (he / French)",
+      "a_1": "He's French.",
+      "a_2": "He does French.",
+      "a_3": "He French.",
+      "a_4": "No right answer",
+      "right_a": "He's French."
+    },
+    {
+      "title": "Make the present simple <br> (we / not / cold)",
+      "a_1": "We aren't cold.",
+      "a_2": "We don't cold.",
+      "a_3": "We aren't colding.",
+      "a_4": "No right answer",
+      "right_a": "We aren't cold."
+    },
+    {
+      "title": "Make the present simple <br> (he / a footballer)?",
+      "a_1": "Is he a footballer?",
+      "a_2": "Does he a footballer?",
+      "a_3": "Did he a footballer?",
+      "a_4": "No right answer",
+      "right_a": "Is he a footballer?"
+    },
+    {
+      "title": "Make the present simple <br> (where / John)?",
+      "a_1": "Where is John?",
+      "a_2": "Where does John?",
+      "a_3": "Where did John?",
+      "a_4": "No right answer",
+      "right_a": "Where is John?"
+    },
+    {
+      "title": "Make the present simple <br> (we / German)",
+      "a_1": "We're German.",
+      "a_2": "We do German.",
+      "a_3": "We did German.",
+      "a_4": "No right answer",
+      "right_a": "We're German."
+    },
+    {
+      "title": "Make the present simple <br> (he / not / a journalist)",
+      "a_1": "He isn't a journalist.",
+      "a_2": "He doesn't a journalist.",
+      "a_3": "He don't a journalist.",
+      "a_4": "No right answer",
+      "right_a": "He isn't a journalist."
+    },
+    {
+      "title": "Make the present simple <br> (we / not / singers)",
+      "a_1": "We aren't singers.",
+      "a_2": "We don't singers.",
+      "a_3": "We doesn't singers.",
+      "a_4": "No right answer",
+      "right_a": "We aren't singers."
+    },
+    {
+      "title": "Make the present simple <br> (you / a nurse)?",
+      "a_1": "Do you a nurse?",
+      "a_2": "Are you a nurse?",
+      "a_3": "Does you a nurse?",
+      "a_4": "No right answer",
+      "right_a": "Are you a nurse?"
+    },
+    {
+      "title": "Make the present simple <br> (they / from Libya)",
+      "a_1": "They do from Libya.",
+      "a_2": "They did from Libya.",
+      "a_3": "They are from Libya.",
+      "a_4": "No right answer",
+      "right_a": "They are from Libya."
+    },
+    {
+      "title": "Make the present simple <br> (where / David)?",
+      "a_1": "Where's David?",
+      "a_2": "Where does David?",
+      "a_3": "Where did David?",
+      "a_4": "No right answer",
+      "right_a": "Where's David?"
+    },
+    {
+      "title": "Make the present simple <br> (I / not / English)",
+      "a_1": "I am not English.",
+      "a_2": "I do not English.",
+      "a_3": "I does not English.",
+      "a_4": "No right answer",
+      "right_a": "I am not English."
+    },
+    {
+      "title": "Make the present simple <br> Where / John?",
+      "a_1": "Where is John?",
+      "a_2": "Where does John?",
+      "a_3": "Where did John?",
+      "a_4": "No right answer",
+      "right_a": "Where is John?"
+    },
+    {
+      "title": "Make the present simple <br> Why / they / hungry?",
+      "a_1": "Why are they hungry?",
+      "a_2": "Why do they hungry?",
+      "a_3": "Why does they hungry?",
+      "a_4": "No right answer",
+      "right_a": "Why are they hungry?"
+    },
+    {
+      "title": "Make the present simple <br> Where / we?",
+      "a_1": "Where are we?",
+      "a_2": "Where did we?",
+      "a_3": "Where do we?",
+      "a_4": "No right answer",
+      "right_a": "Where are we?"
+    },
+    {
+      "title": "Make the present simple <br> Who / you?",
+      "a_1": "Who do you?",
+      "a_2": "Who are you?",
+      "a_3": "Who did you?",
+      "a_4": "No right answer",
+      "right_a": "Who are you?"
+    },
+    {
+      "title": "Make the present simple <br> Why / he / late?",
+      "a_1": "Why does he lates?",
+      "a_2": "Why is he late?",
+      "a_3": "Why does he late?",
+      "a_4": "No right answer",
+      "right_a": "Why is he late?"
+    },
+    {
+      "title": "Make the present simple <br> They ________ (speak) French to the waitress.",
+      "a_1": "speak",
+      "a_2": "speaked",
+      "a_3": "spoke",
+      "a_4": "spoken",
+      "right_a": "spoke"
+    },
+    {
+      "title": "Make the present simple <br> I ________ (forget) to buy some milk.",
+      "a_1": "forgeted",
+      "a_2": "forgot",
+      "a_3": "forgotten",
+      "a_4": "No right answer",
+      "right_a": "forgot"
+    },
+    {
+      "title": "Make the present simple <br> She ________ (have) a baby in June.",
+      "a_1": "have",
+      "a_2": "had",
+      "a_3": "has",
+      "a_4": "No right answer",
+      "right_a": "had"
+    },
+    {
+      "title": "(What is the correct plural) <br> Where did you put the (knife) _____ ? <br>On the (shelf) _____ .",
+      "a_1": "knifes, shelfes",
+      "a_2": "knives, shelfes",
+      "a_3": "knives, shelves",
+      "a_4": "No right answer",
+      "right_a": "knives, shelves"
+    },
+    {
+      "title": "(What is the correct plural) <br> (Goose) _____ like water.",
+      "a_1": "Gooses",
+      "a_2": "Gooseses",
+      "a_3": "Geese",
+      "a_4": "No right answer",
+      "right_a": "Geese"
+    },
+    {
+      "title": "Write the plural <br> (city)",
+      "a_1": "cities",
+      "a_2": "city",
+      "a_3": "cityes",
+      "a_4": "No right answer",
+      "right_a": "cities"
+    },
+    {
+      "title": "Write the plural <br> life",
+      "a_1": "lives",
+      "a_2": "lifes",
+      "a_3": "live",
+      "a_4": "No right answer",
+      "right_a": "lives"
+    },
+    {
+      "title": "Present Continuous <br> _____ they coming over for dinner?",
+      "a_1": "are",
+      "a_2": "will",
+      "a_3": "are gonna",
+      "a_4": "No right answer",
+      "right_a": "are"
+    },
+    {
+      "title": "Present Continuous <br> Maxwell _____ not sleeping on our sofa.",
+      "a_1": "is",
+      "a_2": "will",
+      "a_3": "is gonna",
+      "a_4": "No right answer",
+      "right_a": "is"
+    },
+    {
+      "title": "My mother-in-law is _____ at our house this week.",
+      "a_1": "stay",
+      "a_2": "staying",
+      "a_3": "be staying",
+      "a_4": "staying",
+      "right_a": "staying"
+    },
+    {
+      "title": "I _____ my dinner right now.",
+      "a_1": "eat",
+      "a_2": "eating",
+      "a_3": "am eating",
+      "a_4": "No right answer",
+      "right_a": "am eating"
+    },
+    {
+      "title": "My sister _____ Spanish.",
+      "a_1": "learn",
+      "a_2": "is learning",
+      "a_3": "learning",
+      "a_4": "No right answer",
+      "right_a": "is learning"
+    },
+    {
+      "title": "I _____ at the hair salon until September.",
+      "a_1": "work",
+      "a_2": "be working",
+      "a_3": "am working",
+      "a_4": "No right answer",
+      "right_a": "am working"
+    },
+    {
+      "title": "We _____ at a fancy restaurant tonight. Jason decided this yesterday.",
+      "a_1": "eat",
+      "a_2": "are eating",
+      "a_3": "eats",
+      "a_4": "No right answer",
+      "right_a": "are eating"
+    },
+    {
+      "title": "Why ________ playing football tomorrow?",
+      "a_1": "he not is",
+      "a_2": "he isn't",
+      "a_3": "isn't he",
+      "a_4": "No right answer",
+      "right_a": "isn't he"
+    },
+    {
+      "title": "They are _____ a new shopping mall downtown.",
+      "a_1": "opens",
+      "a_2": "openning",
+      "a_3": "oppening",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Melissa is _____ down on her bed.",
+      "a_1": "lieing",
+      "a_2": "liying",
+      "a_3": "lyes",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Look at _____ birds up there in the tree.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "Are _____ your books over there on the table?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "My umbrella is right here. _____ is my umbrella.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "this"
+    },
+    {
+      "title": "Those apples are red, but _____ apples over here are green.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "these"
+    },
+    {
+      "title": "Did you and your family stay at _____ hotel in Paris?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "What are _____ <br> (things near you)?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "_____ strawberries are delicious (the bowl is in front of me on the table).",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "these"
+    },
+    {
+      "title": "_____ party is really fun. (We’re at the party now.)",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "this"
+    },
+    {
+      "title": "_____ show we saw last week was so depressing!",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "_____ painting (that we saw yesterday) was really beautiful.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": " I really liked _____ cakes. (I’m talking about the cakes we ate last week.)",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "_____’s a great idea! (the idea you explained to me.)",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "David, _____ is Lukas.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "this"
+    },
+    {
+      "title": " Who is _____ woman by the door?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "_____ are fabulous trousers! (That you’re wearing.)",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "_____ people we met last night were really nice.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "_____’s right! (The thing that you said is right)",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "frightening",
+      "a_1": "worse",
+      "a_2": "terrible",
+      "a_3": "deteriorated",
+      "a_4": "No right answer",
+      "right_a": "terrible"
+    },
+    {
+      "title": "noise",
+      "a_1": "loud",
+      "a_2": "nervous",
+      "a_3": "create",
+      "a_4": "No right answer",
+      "right_a": "loud"
+    },
+    {
+      "title": "deteriorated",
+      "a_1": "project",
+      "a_2": "loud",
+      "a_3": "worse",
+      "a_4": "No right answer",
+      "right_a": "worse"
+    },
+    {
+      "title": "Brazil is located in South America. _______ capital city is Brasilia.",
+      "a_1": "their",
+      "a_2": "theirs",
+      "a_3": "its",
+      "a_4": "it",
+      "right_a": "its"
+    },
+    {
+      "title": "This is ________ - you ordered the pizza. I ordered the spaghetti.",
+      "a_1": "mine",
+      "a_2": "my",
+      "a_3": "your",
+      "a_4": "yours",
+      "right_a": "yours"
+    },
+    {
+      "title": "Did the cat eat all of _______ food?",
+      "a_1": "her",
+      "a_2": "his",
+      "a_3": "its",
+      "a_4": "it",
+      "right_a": "its"
+    },
+    {
+      "title": "Which possessive comes before a noun?",
+      "a_1": "possessive adjective",
+      "a_2": "possessive pronoun",
+      "a_3": "possessive verbs",
+      "a_4": "No right answer",
+      "right_a": "possessive adjective"
+    },
+    {
+      "title": "I think these keys are _______________. I left them on the table.",
+      "a_1": "your",
+      "a_2": "yours",
+      "a_3": "mine",
+      "a_4": "my",
+      "right_a": "mine"
+    },
+    {
+      "title": "I think these keys are _________. You left them on the table.",
+      "a_1": "my",
+      "a_2": "mine",
+      "a_3": "yours",
+      "a_4": "your",
+      "right_a": "yours"
+    },
+    {
+      "title": "Tinned",
+      "a_1": "صلصة",
+      "a_2": "شعرية",
+      "a_3": "علبة حليب",
+      "a_4": "معلب",
+      "right_a": "معلب"
+    },
+    {
+      "title": "Nuts",
+      "a_1": "مكسرات",
+      "a_2": "بسكويت",
+      "a_3": "جلي",
+      "a_4": "مكرونة",
+      "right_a": "مكسرات"
+    },
+    {
+      "title": "Snack",
+      "a_1": "وجبة خفيفة",
+      "a_2": "وجبة",
+      "a_3": "ملح",
+      "a_4": "مفتت",
+      "right_a": "وجبة خفيفة"
+    },
+    {
+      "title": "Afraid",
+      "a_1": "accept",
+      "a_2": "scared",
+      "a_3": "arrive",
+      "a_4": "hide",
+      "right_a": "scared"
+    }
+  ],
+  "level4": [
+    {
+      "title": "You can't take my car. I use it at weekends. <br> You can't take my car. I _______ it next weekend.",
+      "a_1": "need",
+      "a_2": "am need",
+      "a_3": "will need",
+      "a_4": "No right answer",
+      "right_a": "will need"
+    },
+    {
+      "title": "Waiter, we would like two glasses of orange juice. <br> Waiter, we _______ two glasses of orange juice.",
+      "a_1": "have",
+      "a_2": "are",
+      "a_3": "are have",
+      "a_4": "will have",
+      "right_a": "will have"
+    },
+    {
+      "title": "Do you think our English teacher is preparing a test for tomorrow? <br> Do you think we _______ a test tomorrow?",
+      "a_1": "are write",
+      "a_2": "have write",
+      "a_3": "will write",
+      "a_4": "No right answer",
+      "right_a": "will write"
+    },
+    {
+      "title": "I have a lot of work to do in the evening. <br> I _______ a lot in the evening.",
+      "a_1": "are work",
+      "a_2": "have work",
+      "a_3": "am work",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "This film is worth the money! <br> I _______ this film!",
+      "a_1": "am gonna visit",
+      "a_2": "are visit",
+      "a_3": "will visit",
+      "a_4": "No right answer",
+      "right_a": "am gonna visit"
+    },
+    {
+      "title": "Lionel Messi _______ for Real Madrid this season.",
+      "a_1": "is gonna play",
+      "a_2": "will play",
+      "a_3": "is play",
+      "a_4": "No right answer",
+      "right_a": "is gonna play"
+    },
+    {
+      "title": "There is a museum on our programme for tomorrow <br> I _______ this film!",
+      "a_1": "watch",
+      "a_2": "have watch",
+      "a_3": "will watch",
+      "a_4": "No right answer",
+      "right_a": "will watch"
+    },
+    {
+      "title": "Don't leave your key on the table. You _______ to take it.",
+      "a_1": "will forget",
+      "a_2": "won't forget",
+      "a_3": "are gonna forget",
+      "a_4": "No right answer",
+      "right_a": "will forget"
+    },
+    {
+      "title": "If it doesn't rain tomorrow morning, we _______ our umbrellas.",
+      "a_1": "will take",
+      "a_2": "won't take",
+      "a_3": "are gonna take",
+      "a_4": "No right answer",
+      "right_a": "are gonna take"
+    },
+    {
+      "title": "Anna _______ on holiday next week. She'll be at work, I suppose.",
+      "a_1": "will be",
+      "a_2": "won't be",
+      "a_3": "is gonna be",
+      "a_4": "No right answer",
+      "right_a": "won't be"
+    },
+    {
+      "title": "I'm told you are ill. I hope you better as soon as possible.",
+      "a_1": "will feel",
+      "a_2": "won't feel",
+      "a_3": "are gonna feel",
+      "a_4": "No right answer",
+      "right_a": "will feel"
+    },
+    {
+      "title": "I have no idea how to do it. I _______ it, I'm afraid.",
+      "a_1": "won't make",
+      "a_2": "will make",
+      "a_3": "am make",
+      "a_4": "No right answer",
+      "right_a": "won't make"
+    },
+    {
+      "title": "Oh, no. My car is broken. How _______ to the airport?",
+      "a_1": "will I get",
+      "a_2": "I'll get",
+      "a_3": "I'm getting",
+      "a_4": "No right answer",
+      "right_a": "will I get"
+    },
+    {
+      "title": "We’re going to have a picnic ________ Saturday afternoon. Would you like to come?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "I’ll be finished my work ________ an hour. Then, I can go home.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "When is the meeting? Is it ________ 2:00?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "I like to get up really early, ________ sunrise, when the birds start to sing.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "Tom’s birthday is next week, ________ January 14.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "My grandfather was born ________ the 1950s.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "Will we be ________ time, or will we miss our flight?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "My family and I like to ski ________ winter. ",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "Are there any holidays ________ October?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "Our school cafeteria opens for lunch ________ noon.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "What time does your son go to bed ________ night?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "We moved to this city ________ 2012.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "Are you going to do anything special ________ your birthday?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "I’m not going to watch that TV show. It starts ________ midnight!",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "I love to go swimming at the beach _______ summer.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "What time do your children usually go to bed _______ night?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "Next year, we plan to travel to Taiwan _______ September.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "My birthday is next week. I was born _______ October 15th.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "My grandfather is very old. He was born _______ 1939.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "I am going to meet my friends _______ Friday evening.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "Most stores and businesses are closed _______ New Year’s Day.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "I always get up very early _______ the morning.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "My father goes to work _______ weekdays, from Monday to Friday.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "After I eat dinner, I like to watch TV _______ the evening.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "My first class at college begins _______ eight o’clock.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "He has an appointment to see a dentist _______ Monday",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "appropriate",
+      "a_1": "stay away",
+      "a_2": "fitting",
+      "a_3": "act",
+      "a_4": "gratified",
+      "right_a": "fitting"
+    },
+    {
+      "title": "behave",
+      "a_1": "concern",
+      "a_2": "expect",
+      "a_3": "habit",
+      "a_4": "act",
+      "right_a": "act"
+    },
+    {
+      "title": "tremble",
+      "a_1": "act",
+      "a_2": "expanded",
+      "a_3": "walk",
+      "a_4": "shake",
+      "right_a": "shake"
+    },
+    {
+      "title": "stroll",
+      "a_1": "small-town",
+      "a_2": "upbeat",
+      "a_3": "express",
+      "a_4": "walk",
+      "right_a": "walk"
+    },
+    {
+      "title": "village",
+      "a_1": "expect",
+      "a_2": "avoid",
+      "a_3": "calm",
+      "a_4": "small-town",
+      "right_a": "small-town"
+    },
+    {
+      "title": "avoid",
+      "a_1": "stay away",
+      "a_2": "anxiety",
+      "a_3": "guide",
+      "a_4": "issue",
+      "right_a": "stay away"
+    },
+    {
+      "title": "expanded",
+      "a_1": "spread",
+      "a_2": "expect",
+      "a_3": "act",
+      "a_4": "nothing",
+      "right_a": "spread"
+    },
+    {
+      "title": "punish",
+      "a_1": "patient",
+      "a_2": "positive",
+      "a_3": "tranquil",
+      "a_4": "scold",
+      "right_a": "scold"
+    },
+    {
+      "title": "I'll text you = _______",
+      "a_1": "I'll play with you",
+      "a_2": "It's not worth it",
+      "a_3": "Chat with you",
+      "a_4": "No right answer",
+      "right_a": "Chat with you"
+    },
+    {
+      "title": "You sold me",
+      "a_1": "انت بعتني",
+      "a_2": "انت تحبني",
+      "a_3": "انا غلط وانت صح",
+      "a_4": "No right answer",
+      "right_a": "انا غلط وانت صح"
+    },
+    {
+      "title": "Take care",
+      "a_1": "bye",
+      "a_2": "take care of me",
+      "a_3": "go away",
+      "a_4": "No right answer",
+      "right_a": "bye"
+    },
+    {
+      "title": "Make the present simple <br> (he / drive to work every day)",
+      "a_1": "He drive to work every day",
+      "a_2": "He drives to work every day",
+      "a_3": "He driving to work every day",
+      "a_4": "No right answer",
+      "right_a": "He drives to work every day"
+    },
+    {
+      "title": "Make the present simple <br> (I / not / think you're right)",
+      "a_1": "I don't thinks you're right.",
+      "a_2": "I don't think you right.",
+      "a_3": "I don't think you're right.",
+      "a_4": "No right answer",
+      "right_a": "I don't think you're right."
+    },
+    {
+      "title": "Make the present simple <br> (we / have enough time)?",
+      "a_1": "are we have enough time?",
+      "a_2": "Does we have enough time?",
+      "a_3": "Do we have enough time?",
+      "a_4": "No right answer",
+      "right_a": "Do we have enough time?"
+    },
+    {
+      "title": "Make the present simple <br> (I / eat cereal in the morning)",
+      "a_1": "I eats cereal in the morning.",
+      "a_2": "I'm eat cereal in the morning.",
+      "a_3": "I eating cereal in the morning.",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Make the present simple <br> (they / write e-mails every day)?",
+      "a_1": "Did they write e-mails every day?",
+      "a_2": "Does they write e-mails every day?",
+      "a_3": "are they write e-mails every day?",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "noise",
+      "a_1": "loud",
+      "a_2": "nervous",
+      "a_3": "create",
+      "a_4": "No right answer",
+      "right_a": "loud"
+    },
+    {
+      "title": "deteriorated",
+      "a_1": "project",
+      "a_2": "loud",
+      "a_3": "worse",
+      "a_4": "No right answer",
+      "right_a": "worse"
+    },
+    {
+      "title": "(What is the correct plural) <br> The (woman) _____ over there want to meet the manager.",
+      "a_1": "womans",
+      "a_2": "womens",
+      "a_3": "people",
+      "a_4": "women",
+      "right_a": "women"
+    },
+    {
+      "title": "(What is the correct plural) <br> My (child) _____ hate eating pasta.",
+      "a_1": "childs",
+      "a_2": "childrens",
+      "a_3": "children",
+      "a_4": "No right answer",
+      "right_a": "children"
+    },
+    {
+      "title": "(What is the correct plural) <br> I am ill. My (foot) _____ hurt.",
+      "a_1": "feet",
+      "a_2": "foots",
+      "a_3": "legs",
+      "a_4": "No right answer",
+      "right_a": "feet"
+    },
+    {
+      "title": "(What is the correct plural) <br> Muslims sacrifice (sheep) _____ in a religious celebration called Eid Al Adha.",
+      "a_1": "sheeps",
+      "a_2": "shoop",
+      "a_3": "sheep",
+      "a_4": "No right answer",
+      "right_a": "sheep"
+    },
+    {
+      "title": "(What is the correct plural) <br> I clean my (tooth) _____ three times a day.",
+      "a_1": "teeth",
+      "a_2": "tooths",
+      "a_3": "tooth",
+      "a_4": "No right answer",
+      "right_a": "teeth"
+    },
+    {
+      "title": "(What is the correct plural) <br> The (fish) _____ I bought is in the fridge.",
+      "a_1": "fishs",
+      "a_2": "feesh",
+      "a_3": "fishes",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "(What is the correct plural) <br> They are sending some (man) _____ to fix the roof.",
+      "a_1": "mans",
+      "a_2": "man",
+      "a_3": "men",
+      "a_4": "No right answer",
+      "right_a": "men"
+    },
+    {
+      "title": "(What is the correct plural) <br> Most (houswife) _____ work more than ten hours a day at home.",
+      "a_1": "housewifes",
+      "a_2": "houseswife",
+      "a_3": "housewives",
+      "a_4": "No right answer",
+      "right_a": "housewives"
+    },
+    {
+      "title": "(What is the correct plural) <br> Where did you put the (knife) _____ ? <br>On the (shelf) _____ .",
+      "a_1": "knifes, shelfes",
+      "a_2": "knives, shelfes",
+      "a_3": "knives, shelves",
+      "a_4": "No right answer",
+      "right_a": "knives, shelves"
+    },
+    {
+      "title": "(What is the correct plural) <br> (Goose) _____ like water.",
+      "a_1": "Gooses",
+      "a_2": "Gooseses",
+      "a_3": "Geese",
+      "a_4": "No right answer",
+      "right_a": "Geese"
+    },
+    {
+      "title": "Write the plural <br> (city)",
+      "a_1": "cities",
+      "a_2": "city",
+      "a_3": "cityes",
+      "a_4": "No right answer",
+      "right_a": "cities"
+    },
+    {
+      "title": "Write the plural <br> life",
+      "a_1": "lives",
+      "a_2": "lifes",
+      "a_3": "live",
+      "a_4": "No right answer",
+      "right_a": "lives"
+    },
+    {
+      "title": "Present Continuous <br> _____ they coming over for dinner?",
+      "a_1": "are",
+      "a_2": "will",
+      "a_3": "are gonna",
+      "a_4": "No right answer",
+      "right_a": "are"
+    },
+    {
+      "title": "Present Continuous <br> Maxwell _____ not sleeping on our sofa.",
+      "a_1": "is",
+      "a_2": "will",
+      "a_3": "is gonna",
+      "a_4": "No right answer",
+      "right_a": "is"
+    },
+    {
+      "title": "Where is _______ classroom? We can’t find it.",
+      "a_1": "ours",
+      "a_2": "them",
+      "a_3": "theirs",
+      "a_4": "our",
+      "right_a": "our"
+    },
+    {
+      "title": "What kind of possessive is hers?",
+      "a_1": "possessive adjective",
+      "a_2": "possessive pronoun",
+      "a_3": "possessive verb",
+      "a_4": "No right answer",
+      "right_a": "possessive adjective"
+    },
+    {
+      "title": "The bicycles were _________, so they rode them home after school.",
+      "a_1": "ours",
+      "a_2": "theirs",
+      "a_3": "our",
+      "a_4": "their",
+      "right_a": "theirs"
+    },
+    {
+      "title": "Excuse me. This phone is __________. You forgot to take it with you.",
+      "a_1": "your",
+      "a_2": "yours",
+      "a_3": "mine",
+      "a_4": "my",
+      "right_a": "yours"
+    }
+  ],
+  "level5": [
+    {
+      "title": "I ___________ about a yellow unicorn last night.",
+      "a_1": "dreamed",
+      "a_2": "slept",
+      "a_3": "dreaming",
+      "a_4": "No right answer",
+      "right_a": "dreamed"
+    },
+    {
+      "title": "Anna ___________ to class yesterday because she was at the hospital.",
+      "a_1": "didn't came",
+      "a_2": "didn't comed",
+      "a_3": "didn't arrive",
+      "a_4": "didn't come",
+      "right_a": "didn't come"
+    },
+    {
+      "title": "It was snowing last night. It ___________ so cold!",
+      "a_1": "touched",
+      "a_2": "felt",
+      "a_3": "happened",
+      "a_4": "No right answer",
+      "right_a": "felt"
+    },
+    {
+      "title": "Lucy ___________ her mother's watch, so she bought a new one.",
+      "a_1": "forgot",
+      "a_2": "crashed",
+      "a_3": "broke",
+      "a_4": "No right answer",
+      "right_a": "broke"
+    },
+    {
+      "title": "We ___________ at the library for three hours yesterday.",
+      "a_1": "learnt",
+      "a_2": "studied",
+      "a_3": "reviewed",
+      "a_4": "No right answer",
+      "right_a": "studied"
+    },
+    {
+      "title": "I ___________ an e-mail to the company but they never answered.",
+      "a_1": "send",
+      "a_2": "published",
+      "a_3": "read",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "The two cousins ___________ at the airport for the first time.",
+      "a_1": "meeted",
+      "a_2": "welcomed",
+      "a_3": "saw",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "The dog ___________ in the middle of the kitchen floor, looking at the door.",
+      "a_1": "put",
+      "a_2": "ran",
+      "a_3": "stood",
+      "a_4": "No right answer",
+      "right_a": "stood"
+    },
+    {
+      "title": "Last night the game ______ 10 minutes late.",
+      "a_1": "beginned",
+      "a_2": "begin",
+      "a_3": "began",
+      "a_4": "No right answer",
+      "right_a": "began"
+    },
+    {
+      "title": "The dog ______ his finger.",
+      "a_1": "bit",
+      "a_2": "bite",
+      "a_3": "bited",
+      "a_4": "No right answer",
+      "right_a": "bit"
+    },
+    {
+      "title": "The teacher ______ a note to Nina's parents.",
+      "a_1": "writed",
+      "a_2": "write",
+      "a_3": "written",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "They ______ what the student said in class yesterday.",
+      "a_1": "understand",
+      "a_2": "understandded",
+      "a_3": "understanded",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "He _____ the ball at me.",
+      "a_1": "throwed",
+      "a_2": "threw",
+      "a_3": "throw",
+      "a_4": "No right answer",
+      "right_a": "threw"
+    },
+    {
+      "title": "The strong wind ______ off her hat.",
+      "a_1": "blew",
+      "a_2": "blown",
+      "a_3": "blowed",
+      "a_4": "No right answer",
+      "right_a": "blew"
+    },
+    {
+      "title": "Maria ______ her phone last week.",
+      "a_1": "broked",
+      "a_2": "breaked",
+      "a_3": "broke",
+      "a_4": "No right answer",
+      "right_a": "broke"
+    },
+    {
+      "title": "I ______ David was sick, but he was on vacation.",
+      "a_1": "thought",
+      "a_2": "thinked",
+      "a_3": "think",
+      "a_4": "No right answer",
+      "right_a": "thought"
+    },
+    {
+      "title": "We ______ our new home quickly.",
+      "a_1": "built",
+      "a_2": "builded",
+      "a_3": "builted",
+      "a_4": "No right answer",
+      "right_a": "built"
+    },
+    {
+      "title": "Bob _____ Helen the secret.",
+      "a_1": "tell",
+      "a_2": "telled",
+      "a_3": "tailed",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Mozart ___________ more than 600 pieces of music.<br>",
+      "a_1": "writes",
+      "a_2": "wrote",
+      "a_3": "writed",
+      "a_4": "was wrote",
+      "right_a": "did"
+    },
+    {
+      "title": "We _______ David in town a few days ago.",
+      "a_1": "did see",
+      "a_2": "was saw",
+      "a_3": "did saw",
+      "a_4": "saw",
+      "right_a": "saw"
+    },
+    {
+      "title": "It was cold, so I _____________ the window.",
+      "a_1": "shut",
+      "a_2": "was shut",
+      "a_3": "am shut",
+      "a_4": "shutted",
+      "right_a": "shut"
+    },
+    {
+      "title": "I ___________ to the cinema three times last week.",
+      "a_1": "was go",
+      "a_2": "went",
+      "a_3": "did go",
+      "a_4": "No right answer",
+      "right_a": "went"
+    },
+    {
+      "title": "What __________ you _________ last weekend?",
+      "a_1": "were / do",
+      "a_2": "did / did",
+      "a_3": "did / do",
+      "a_4": "do / did",
+      "right_a": "did / do"
+    },
+    {
+      "title": "The police ___________ me on my way home last night.",
+      "a_1": "was stop",
+      "a_2": "stopped",
+      "a_3": "stops",
+      "a_4": "stopping",
+      "right_a": "stopped"
+    },
+    {
+      "title": "The film wasn't very good. I _____________ it very much.",
+      "a_1": "enjoyed",
+      "a_2": "wasn't enjoy",
+      "a_3": "didn't enjoyed",
+      "a_4": "didn't enjoy",
+      "right_a": "didn't enjoy"
+    },
+    {
+      "title": "The bed was very uncomfortable. I ____________ sleep very well.",
+      "a_1": "didn't",
+      "a_2": "did",
+      "a_3": "wasn't",
+      "a_4": "No right answer",
+      "right_a": "didn't"
+    },
+    {
+      "title": "The window was open and a bird ___________ into the room.",
+      "a_1": "fly",
+      "a_2": "flew",
+      "a_3": "was flew",
+      "a_4": "did fly",
+      "right_a": "flew"
+    },
+    {
+      "title": "I __________ a lot of money yesterday. I __________ an expensive dress.",
+      "a_1": "spend / buy",
+      "a_2": "spent / buy",
+      "a_3": "spent / bought",
+      "a_4": "No right answer",
+      "right_a": "spent / bought"
+    },
+    {
+      "title": "She ________ in Florida but prefers California.",
+      "a_1": "lives",
+      "a_2": "goes",
+      "a_3": "lived",
+      "a_4": "No right answer",
+      "right_a": "lives"
+    },
+    {
+      "title": "When we ________ on vacation, we never fly.",
+      "a_1": "are",
+      "a_2": "go",
+      "a_3": "went",
+      "a_4": "No right answer",
+      "right_a": "go"
+    },
+    {
+      "title": "I ________ four languages, but I love Italian above all.",
+      "a_1": "spoke",
+      "a_2": "speak",
+      "a_3": "speaks",
+      "a_4": "spoken",
+      "right_a": "speak"
+    },
+    {
+      "title": "That dog always ________ with his head against the wall.",
+      "a_1": "sleepes",
+      "a_2": "sleeping",
+      "a_3": "sleeped",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "We don't ________ which airport the plane goes from.",
+      "a_1": "know",
+      "a_2": "knew",
+      "a_3": "knowing",
+      "a_4": "No right answer",
+      "right_a": "know"
+    },
+    {
+      "title": "My girlfriend ________ her eyes when there's a horror movie on TV.",
+      "a_1": "open",
+      "a_2": "shut",
+      "a_3": "clossed",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Kathy always ________ about the boss. She hates her job!",
+      "a_1": "says",
+      "a_2": "complained",
+      "a_3": "complains",
+      "a_4": "No right answer",
+      "right_a": "complains"
+    },
+    {
+      "title": "She ________ to disco music, only tango.",
+      "a_1": "didn't dance",
+      "a_2": "don't dance",
+      "a_3": "doesn't dance",
+      "a_4": "hasn't dance",
+      "right_a": "doesn't dance"
+    },
+    {
+      "title": "I am _______ a sandwich now.",
+      "a_1": "eats",
+      "a_2": "eating",
+      "a_3": "not eat",
+      "a_4": "eat",
+      "right_a": "eating"
+    },
+    {
+      "title": "I am busy right now. I _______ breakfast.",
+      "a_1": "am have",
+      "a_2": "have",
+      "a_3": "having",
+      "a_4": "am having",
+      "right_a": "am having"
+    },
+    {
+      "title": "My daughter _________ studying English at Istanbul University.",
+      "a_1": "is",
+      "a_2": "does",
+      "a_3": "do",
+      "a_4": "No right answer",
+      "right_a": "is"
+    },
+    {
+      "title": "_____ you waiting for a bus?",
+      "a_1": "do",
+      "a_2": "are",
+      "a_3": "does",
+      "a_4": "is",
+      "right_a": "are"
+    },
+    {
+      "title": "What _____________? It looks awful.",
+      "a_1": "do you drinking",
+      "a_2": "are you drink",
+      "a_3": "are you drinking",
+      "a_4": "does you drink",
+      "right_a": "are you drinking"
+    },
+    {
+      "title": "We ________ enjoying our holiday here so much.",
+      "a_1": "don't",
+      "a_2": "are",
+      "a_3": "is",
+      "a_4": "No right answer",
+      "right_a": "are"
+    },
+    {
+      "title": "What _____ John ___________ at the moment?",
+      "a_1": "does / do",
+      "a_2": "is / do",
+      "a_3": "are / doing",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "I ___________ sitting down at the moment.",
+      "a_1": "am not",
+      "a_2": "are not",
+      "a_3": "is",
+      "a_4": "don't",
+      "right_a": "don't"
+    },
+    {
+      "title": "Don't disturb him. He __________.",
+      "a_1": "sleeps",
+      "a_2": "is sleeping",
+      "a_3": "is sleep",
+      "a_4": "sleep",
+      "right_a": "is sleeping"
+    },
+    {
+      "title": "They are ___________ their coats.",
+      "a_1": "not",
+      "a_2": "put on",
+      "a_3": "putting on",
+      "a_4": "doesn't put",
+      "right_a": "putting on"
+    },
+    {
+      "title": "____________________ shoes here are black",
+      "a_1": "This",
+      "a_2": "That",
+      "a_3": "These",
+      "a_4": "Those",
+      "right_a": "These"
+    },
+    {
+      "title": "____________________ shoes there are gray",
+      "a_1": "This",
+      "a_2": "That",
+      "a_3": "These",
+      "a_4": "Those",
+      "right_a": "Those"
+    },
+    {
+      "title": "____________________ pen here is small",
+      "a_1": "This",
+      "a_2": "That",
+      "a_3": "These",
+      "a_4": "Those",
+      "right_a": "This"
+    },
+    {
+      "title": "____________________ pen there is very large",
+      "a_1": "This",
+      "a_2": "That",
+      "a_3": "These",
+      "a_4": "Those",
+      "right_a": "That"
+    },
+    {
+      "title": "The time on ____________________ clock over there is 5:00",
+      "a_1": "This",
+      "a_2": "That",
+      "a_3": "These",
+      "a_4": "Those",
+      "right_a": "That"
+    },
+    {
+      "title": "The time on ____________________ clock on my hand is 11:50",
+      "a_1": "This",
+      "a_2": "That",
+      "a_3": "These",
+      "a_4": "Those",
+      "right_a": "This"
+    },
+    {
+      "title": "Look at ______ man over there! He's not wearing any clothes!",
+      "a_1": "This",
+      "a_2": "That",
+      "a_3": "These",
+      "a_4": "Those",
+      "right_a": "That"
+    },
+    {
+      "title": "Her new house cost over half a million pounds. ______ a lot of money.",
+      "a_1": "This's",
+      "a_2": "That's",
+      "a_3": "These're",
+      "a_4": "Those're",
+      "right_a": "That's"
+    },
+    {
+      "title": "Hello. ______ Patrick. Can I speak to Murray, please?",
+      "a_1": "This is",
+      "a_2": "That is",
+      "a_3": "These are",
+      "a_4": "Those are",
+      "right_a": "This is"
+    },
+    {
+      "title": "______ boots she is wearing look very expensive.",
+      "a_1": "This",
+      "a_2": "That",
+      "a_3": "These",
+      "a_4": "Those",
+      "right_a": "These"
+    },
+    {
+      "title": "My grandmother never wore trousers when she was young. In ______ days it wasn't acceptable.",
+      "a_1": "This",
+      "a_2": "That",
+      "a_3": "These",
+      "a_4": "Those",
+      "right_a": "Those"
+    },
+    {
+      "title": "I'm going to London again ______ week-end. Do you want to come?",
+      "a_1": "This",
+      "a_2": "That",
+      "a_3": "These",
+      "a_4": "Those",
+      "right_a": "This"
+    },
+    {
+      "title": "Yes, let's go to the restaurant tonight. _______ a great idea.",
+      "a_1": "This is",
+      "a_2": "That is",
+      "a_3": "These are",
+      "a_4": "Those are",
+      "right_a": "That is"
+    },
+    {
+      "title": "We’re going to have a picnic ________ Saturday afternoon. Would you like to come?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "I’ll be finished my work ________ an hour. Then, I can go home.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "When is the meeting? Is it ________ 2:00?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "I like to get up really early, ________ sunrise, when the birds start to sing.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "Tom’s birthday is next week, ________ January 14.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "I have a lot of work to do in the evening. <br> I _______ a lot in the evening.",
+      "a_1": "are work",
+      "a_2": "have work",
+      "a_3": "am work",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "This film is worth the money! <br> I _______ this film!",
+      "a_1": "am gonna visit",
+      "a_2": "are visit",
+      "a_3": "will visit",
+      "a_4": "No right answer",
+      "right_a": "am gonna visit"
+    },
+    {
+      "title": "Lionel Messi _______ for Real Madrid this season.",
+      "a_1": "is gonna play",
+      "a_2": "will play",
+      "a_3": "is play",
+      "a_4": "No right answer",
+      "right_a": "is gonna play"
+    },
+    {
+      "title": "There is a museum on our programme for tomorrow <br> I _______ this film!",
+      "a_1": "watch",
+      "a_2": "have watch",
+      "a_3": "will watch",
+      "a_4": "No right answer",
+      "right_a": "will watch"
+    },
+    {
+      "title": "Don't leave your key on the table. You _______ to take it.",
+      "a_1": "will forget",
+      "a_2": "won't forget",
+      "a_3": "are gonna forget",
+      "a_4": "No right answer",
+      "right_a": "will forget"
+    },
+    {
+      "title": "If it doesn't rain tomorrow morning, we _______ our umbrellas.",
+      "a_1": "will take",
+      "a_2": "won't take",
+      "a_3": "are gonna take",
+      "a_4": "No right answer",
+      "right_a": "are gonna take"
+    },
+    {
+      "title": "Anna _______ on holiday next week. She'll be at work, I suppose.",
+      "a_1": "will be",
+      "a_2": "won't be",
+      "a_3": "is gonna be",
+      "a_4": "No right answer",
+      "right_a": "won't be"
+    },
+    {
+      "title": "I’ll be finished my work ________ an hour. Then, I can go home.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "When is the meeting? Is it ________ 2:00?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "I like to get up really early, ________ sunrise, when the birds start to sing.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "Tom’s birthday is next week, ________ January 14.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "My grandfather was born ________ the 1950s.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "Will we be ________ time, or will we miss our flight?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "My family and I like to ski ________ winter. ",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "Are there any holidays ________ October?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "Our school cafeteria opens for lunch ________ noon.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "What time does your son go to bed ________ night?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "We moved to this city ________ 2012.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    }
+  ],
+  "level6": [
+    {
+      "title": "Past Continuous <br> (he / cook)",
+      "a_1": "He was cooking",
+      "a_2": "He is cooking",
+      "a_3": "He was cooked",
+      "a_4": "No right answer",
+      "right_a": "He was cooking"
+    },
+    {
+      "title": "Past Continuous <br> (she / play cards)?",
+      "a_1": "is she playing cards?",
+      "a_2": "Was she playing cards?",
+      "a_3": "did she play cards?",
+      "a_4": "No right answer",
+      "right_a": "Was she playing cards?"
+    },
+    {
+      "title": "Past Continuous <br> (I / not / cry)",
+      "a_1": "I wasn't crying",
+      "a_2": "I aren't crying",
+      "a_3": "I don't cry",
+      "a_4": "No right answer",
+      "right_a": "I wasn't crying"
+    },
+    {
+      "title": "Past Continuous <br> (you / not / feel well)",
+      "a_1": "You weren't feeling wel",
+      "a_2": "You aren't feeling wel",
+      "a_3": "You didn't feel wel",
+      "a_4": "No right answer",
+      "right_a": "You weren't feeling wel"
+    },
+    {
+      "title": "Past Continuous <br> (where / I / go when I met you)?",
+      "a_1": "Where was I going when I met you? ",
+      "a_2": "Where did I go when I met you? ",
+      "a_3": "Where are I going when I met you? ",
+      "a_4": "Where do I go when I met you? ",
+      "right_a": "Where was I going when I met you? "
+    },
+    {
+      "title": "Past Continuous <br> (she / not / sleeping at midnight)",
+      "a_1": "She wasn't slept at midnight",
+      "a_2": "She isn't sleeping at midnight",
+      "a_3": "She doesn't sleep at midnight",
+      "a_4": "She wasn't sleeping at midnight",
+      "right_a": "She wasn't sleeping at midnight"
+    },
+    {
+      "title": "Past Continuous <br> (I / work)?",
+      "a_1": "Were I working?",
+      "a_2": "Was I working?",
+      "a_3": "Am I working?",
+      "a_4": "No right answer",
+      "right_a": "Was I working?"
+    },
+    {
+      "title": "Past Continuous <br> (you / sleep when I got home)?",
+      "a_1": "Are you sleeping when I got home?",
+      "a_2": "Were you sleeping when I got home?",
+      "a_3": "Were you slept when I got home?",
+      "a_4": "Did you sleep when I got home?",
+      "right_a": "Were you sleeping when I got home? "
+    },
+    {
+      "title": "Past Continuous <br> (it / rain at lunchtime)",
+      "a_1": "It was raining at lunchtime",
+      "a_2": "It is raining at lunchtime",
+      "a_3": "It were raining at lunchtime",
+      "a_4": "It does rain at lunchtime",
+      "right_a": "It was raining at lunchtime"
+    },
+    {
+      "title": "Past Continuous <br> (what / you / do)?",
+      "a_1": "What were you doing?",
+      "a_2": "What did you do?",
+      "a_3": "What will you doing?",
+      "a_4": "What does you do?",
+      "right_a": "What were you doing?"
+    },
+    {
+      "title": "Past Continuous <br> (why / she / run)?",
+      "a_1": "Why is she running?",
+      "a_2": "Why was she running?",
+      "a_3": "Why did she run?",
+      "a_4": "Why will she running?",
+      "right_a": "Why was she running?"
+    },
+    {
+      "title": "Past Continuous <br> (you / not / read)",
+      "a_1": "You weren't reading",
+      "a_2": "You didn't read",
+      "a_3": "You aren't reading",
+      "a_4": "You don't reading",
+      "right_a": "You weren't reading"
+    },
+    {
+      "title": "Past Continuous <br> (how / we / do at that time)?",
+      "a_1": "How were we doing at that time?",
+      "a_2": "How are we doing at that time?",
+      "a_3": "How will we doing at that time?",
+      "a_4": "How did we do at that time?",
+      "right_a": "How were we doing at that time?"
+    },
+    {
+      "title": "Past Continuous <br> (he / not / watch a film at 3pm)",
+      "a_1": "He wasn't watching a film at 3pm",
+      "a_2": "He isn't watch a film at 3pm",
+      "a_3": "He didn't watch a film at 3pm",
+      "a_4": "He won't watching a film at 3pm",
+      "right_a": "He wasn't watching a film at 3pm"
+    },
+    {
+      "title": "Past Continuous <br> (I / do my homework at eight o'clock)",
+      "a_1": "I was doing my homework at eight o'clock",
+      "a_2": "I did do my homework at eight o'clock",
+      "a_3": "I will doing my homework at eight o'clock",
+      "a_4": "I was do my homework at eight o'clock",
+      "right_a": "I was doing my homework at eight o'clock"
+    },
+    {
+      "title": "Past Continuous <br> (where / it / rain)",
+      "a_1": "Where were it raining?",
+      "a_2": "Where did it rain?",
+      "a_3": "Where is it raining?",
+      "a_4": "Where was it raining?",
+      "right_a": "Where was it raining?"
+    },
+    {
+      "title": "Past Continuous <br> (you / shop when I called you)",
+      "a_1": "You will shopping when I called you",
+      "a_2": "You do shopping when I called you",
+      "a_3": "You did shop when I called you",
+      "a_4": "You were shopping when I called you",
+      "right_a": "You were shopping when I called you"
+    },
+    {
+      "title": "Past Continuous <br> (she / eat dinner when we arrived)",
+      "a_1": "She is eating dinner when we arrived",
+      "a_2": "She was eating dinner when we arrived",
+      "a_3": "She will eating dinner when we arrived",
+      "a_4": "She will eat dinner when we arrived",
+      "right_a": "She was eating dinner when we arrived"
+    },
+    {
+      "title": "Past Continuous <br> (he / live in Tokyo at the time)?",
+      "a_1": "did he live in Tokyo at the time?",
+      "a_2": "Was he live in Tokyo at the time?",
+      "a_3": "is he living in Tokyo at the time?",
+      "a_4": "Was he living in Tokyo at the time?",
+      "right_a": "Was he living in Tokyo at the time?"
+    },
+    {
+      "title": "Past Continuous <br> (it / snow)?",
+      "a_1": "Was it snowing?",
+      "a_2": "Did it snow?",
+      "a_3": "Does it snow?",
+      "a_4": "Will it snowing?",
+      "right_a": "Was it snowing?"
+    },
+    {
+      "title": "When the boss comes, ______ (I/sit) here?",
+      "a_1": "will I be sitting",
+      "a_2": "did I be sit",
+      "a_3": "am I be sitting",
+      "a_4": "do I be sitting",
+      "right_a": "will I be sitting"
+    },
+    {
+      "title": "When the boss comes, ______ (John/use) the computer?",
+      "a_1": "is John be using",
+      "a_2": "did John be uses",
+      "a_3": "does John be use",
+      "a_4": "will John be using",
+      "right_a": "will John be using"
+    },
+    {
+      "title": "When the boss comes, ______ (we/work) hard?",
+      "a_1": "do we are working",
+      "a_2": "did we working",
+      "a_3": "are we working",
+      "a_4": "will we be working",
+      "right_a": "will we be working"
+    },
+    {
+      "title": "When the boss comes, ______ (they/have) a meeting?",
+      "a_1": "will they be having",
+      "a_2": "did they having",
+      "a_3": "are they be having",
+      "a_4": "were they be having",
+      "right_a": "will they be having"
+    },
+    {
+      "title": "At three o'clock tomorrow, I ______ (work) in my office.",
+      "a_1": "'ll be working",
+      "a_2": "was working",
+      "a_3": "did work",
+      "a_4": "am be working",
+      "right_a": "'ll be working"
+    },
+    {
+      "title": "At three o'clock tomorrow, you ______ (lie) on the beach.",
+      "a_1": "am lying",
+      "a_2": "would be lying",
+      "a_3": "was lyeing",
+      "a_4": "'ll be lying",
+      "right_a": "'ll be lying"
+    },
+    {
+      "title": "At three o'clock tomorrow, he ______ (wait) for the train.",
+      "a_1": "is waiting",
+      "a_2": "did wait",
+      "a_3": "'ll be waiting",
+      "a_4": "was waiting",
+      "right_a": "'ll be waiting"
+    },
+    {
+      "title": "At three o'clock tomorrow, she ______ (shop) in New York.",
+      "a_1": "'ll be shopping",
+      "a_2": "was shopping",
+      "a_3": "did shopped",
+      "a_4": "is be shopping",
+      "right_a": "'ll be shopping"
+    },
+    {
+      "title": "You ______ (not/like) chocolate.",
+      "a_1": "didn't like",
+      "a_2": "aren't like",
+      "a_3": "weren't like",
+      "a_4": "don't like",
+      "right_a": "don't like"
+    },
+    {
+      "title": "She ______ (not/study) at the moment.",
+      "a_1": "isn't studying",
+      "a_2": "wasn't studying",
+      "a_3": "didn't study",
+      "a_4": "won't studying",
+      "right_a": "isn't studying"
+    },
+    {
+      "title": "We often ______ (go) to the cinema.",
+      "a_1": "go",
+      "a_2": "going to",
+      "a_3": "went",
+      "a_4": "was went",
+      "right_a": "go"
+    },
+    {
+      "title": "He usually ______ (not/do) his homework.",
+      "a_1": "wasn't do",
+      "a_2": "doesn't do",
+      "a_3": "isn't do",
+      "a_4": "doesn't did",
+      "right_a": "doesn't do"
+    },
+    {
+      "title": "They ______ (not/eat) rice every day.",
+      "a_1": "don't eat",
+      "a_2": "weren't eat",
+      "a_3": "aren't eating",
+      "a_4": "won't eat",
+      "right_a": "don't eat"
+    },
+    {
+      "title": "We ______ (not/study) every night.",
+      "a_1": "won't study",
+      "a_2": "weren't study",
+      "a_3": "aren't study",
+      "a_4": "don't study",
+      "right_a": "don't study"
+    },
+    {
+      "title": "______ (you/like) spicy food?",
+      "a_1": "do you likes",
+      "a_2": "do you like",
+      "a_3": "was you like",
+      "a_4": "will you like",
+      "right_a": "do you like"
+    },
+    {
+      "title": "______ (she/go) to Scotland often?",
+      "a_1": "Does she go",
+      "a_2": "Is she go",
+      "a_3": "Will she go",
+      "a_4": "Was she go",
+      "right_a": "Does she go"
+    },
+    {
+      "title": "______ (he/eat) now?",
+      "a_1": "is he eating",
+      "a_2": "will he eating",
+      "a_3": "was he eating",
+      "a_4": "are he eating",
+      "right_a": "is he eating"
+    },
+    {
+      "title": "We ______ (go) to the cinema this weekend",
+      "a_1": "'ll going",
+      "a_2": "'ll go",
+      "a_3": "'re going",
+      "a_4": "goes",
+      "right_a": "'re going"
+    },
+    {
+      "title": "They ______ (study) now.",
+      "a_1": "'ll studying",
+      "a_2": "'re studying",
+      "a_3": "were studying",
+      "a_4": "'ll study",
+      "right_a": "'re studying"
+    },
+    {
+      "title": "(when / he / work there)?",
+      "a_1": "When was he working there?",
+      "a_2": "When will he working there?",
+      "a_3": "When does he work there?",
+      "a_4": "When is he working there?",
+      "right_a": "When was he working there?"
+    },
+    {
+      "title": "(you / make dinner)?",
+      "a_1": "Were you making dinner?",
+      "a_2": "Are you making dinner?",
+      "a_3": "Will you making dinner?",
+      "a_4": "Did you made dinner?",
+      "right_a": "Were you making dinner?"
+    },
+    {
+      "title": "(they / drink coffee when you arrived)",
+      "a_1": "Will they drinking coffee when you arrived?",
+      "a_2": "Did they drunk coffee when you arrived?",
+      "a_3": "Are they drinking coffee when you arrived?",
+      "a_4": "Were they drinking coffee when you arrived?",
+      "right_a": "Were they drinking coffee when you arrived?"
+    },
+    {
+      "title": "(when / we / sleep)?",
+      "a_1": "When were we sleeping?",
+      "a_2": "When will we sleeping?",
+      "a_3": "When did we slept?",
+      "a_4": "When are we slept?",
+      "right_a": "When were we sleeping?"
+    },
+    {
+      "title": "(they / study last night)",
+      "a_1": "They are studying last night",
+      "a_2": "They were studying last night",
+      "a_3": "They are studied last night",
+      "a_4": "They were studied last night",
+      "right_a": "They were studying last night"
+    },
+    {
+      "title": "(we / talk when the accident happened)",
+      "a_1": "We are talking when the accident happened",
+      "a_2": "We were talking when the accident happened",
+      "a_3": "We were talked when the accident happened",
+      "a_4": "We will talking when the accident happened",
+      "right_a": "We were talking when the accident happened"
+    },
+    {
+      "title": "We ___________ at the library for three hours yesterday.",
+      "a_1": "learnt",
+      "a_2": "studied",
+      "a_3": "reviewed",
+      "a_4": "No right answer",
+      "right_a": "studied"
+    },
+    {
+      "title": "I ___________ an e-mail to the company but they never answered.",
+      "a_1": "send",
+      "a_2": "published",
+      "a_3": "read",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "The two cousins ___________ at the airport for the first time.",
+      "a_1": "meeted",
+      "a_2": "welcomed",
+      "a_3": "saw",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "The dog ___________ in the middle of the kitchen floor, looking at the door.",
+      "a_1": "put",
+      "a_2": "ran",
+      "a_3": "stood",
+      "a_4": "No right answer",
+      "right_a": "stood"
+    },
+    {
+      "title": "Last night the game ______ 10 minutes late.",
+      "a_1": "beginned",
+      "a_2": "begin",
+      "a_3": "began",
+      "a_4": "No right answer",
+      "right_a": "began"
+    },
+    {
+      "title": "The dog ______ his finger.",
+      "a_1": "bit",
+      "a_2": "bite",
+      "a_3": "bited",
+      "a_4": "No right answer",
+      "right_a": "bit"
+    },
+    {
+      "title": "The teacher ______ a note to Nina's parents.",
+      "a_1": "writed",
+      "a_2": "write",
+      "a_3": "written",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "They ______ what the student said in class yesterday.",
+      "a_1": "understand",
+      "a_2": "understandded",
+      "a_3": "understanded",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "He _____ the ball at me.",
+      "a_1": "throwed",
+      "a_2": "threw",
+      "a_3": "throw",
+      "a_4": "No right answer",
+      "right_a": "threw"
+    },
+    {
+      "title": "The strong wind ______ off her hat.",
+      "a_1": "blew",
+      "a_2": "blown",
+      "a_3": "blowed",
+      "a_4": "No right answer",
+      "right_a": "blew"
+    },
+    {
+      "title": "Maria ______ her phone last week.",
+      "a_1": "broked",
+      "a_2": "breaked",
+      "a_3": "broke",
+      "a_4": "No right answer",
+      "right_a": "broke"
+    },
+    {
+      "title": "I ______ David was sick, but he was on vacation.",
+      "a_1": "thought",
+      "a_2": "thinked",
+      "a_3": "think",
+      "a_4": "No right answer",
+      "right_a": "thought"
+    },
+    {
+      "title": "We ______ our new home quickly.",
+      "a_1": "built",
+      "a_2": "builded",
+      "a_3": "builted",
+      "a_4": "No right answer",
+      "right_a": "built"
+    },
+    {
+      "title": "Bob _____ Helen the secret.",
+      "a_1": "tell",
+      "a_2": "telled",
+      "a_3": "tailed",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Mozart ___________ more than 600 pieces of music.<br>",
+      "a_1": "writes",
+      "a_2": "wrote",
+      "a_3": "writed",
+      "a_4": "was wrote",
+      "right_a": "did"
+    },
+    {
+      "title": "We _______ David in town a few days ago.",
+      "a_1": "did see",
+      "a_2": "was saw",
+      "a_3": "did saw",
+      "a_4": "saw",
+      "right_a": "saw"
+    },
+    {
+      "title": "It was cold, so I _____________ the window.",
+      "a_1": "shut",
+      "a_2": "was shut",
+      "a_3": "am shut",
+      "a_4": "shutted",
+      "right_a": "shut"
+    },
+    {
+      "title": "I ___________ to the cinema three times last week.",
+      "a_1": "was go",
+      "a_2": "went",
+      "a_3": "did go",
+      "a_4": "No right answer",
+      "right_a": "went"
+    },
+    {
+      "title": "What __________ you _________ last weekend?",
+      "a_1": "were / do",
+      "a_2": "did / did",
+      "a_3": "did / do",
+      "a_4": "do / did",
+      "right_a": "did / do"
+    },
+    {
+      "title": "You can't take my car. I use it at weekends. <br> You can't take my car. I _______ it next weekend.",
+      "a_1": "need",
+      "a_2": "am need",
+      "a_3": "will need",
+      "a_4": "No right answer",
+      "right_a": "will need"
+    },
+    {
+      "title": "Waiter, we would like two glasses of orange juice. <br> Waiter, we _______ two glasses of orange juice.",
+      "a_1": "have",
+      "a_2": "are",
+      "a_3": "are have",
+      "a_4": "will have",
+      "right_a": "will have"
+    },
+    {
+      "title": "Do you think our English teacher is preparing a test for tomorrow? <br> Do you think we _______ a test tomorrow?",
+      "a_1": "are write",
+      "a_2": "have write",
+      "a_3": "will write",
+      "a_4": "No right answer",
+      "right_a": "will write"
+    },
+    {
+      "title": "I have a lot of work to do in the evening. <br> I _______ a lot in the evening.",
+      "a_1": "are work",
+      "a_2": "have work",
+      "a_3": "am work",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "This film is worth the money! <br> I _______ this film!",
+      "a_1": "am gonna visit",
+      "a_2": "are visit",
+      "a_3": "will visit",
+      "a_4": "No right answer",
+      "right_a": "am gonna visit"
+    },
+    {
+      "title": "Lionel Messi _______ for Real Madrid this season.",
+      "a_1": "is gonna play",
+      "a_2": "will play",
+      "a_3": "is play",
+      "a_4": "No right answer",
+      "right_a": "is gonna play"
+    },
+    {
+      "title": "There is a museum on our programme for tomorrow <br> I _______ this film!",
+      "a_1": "watch",
+      "a_2": "have watch",
+      "a_3": "will watch",
+      "a_4": "No right answer",
+      "right_a": "will watch"
+    },
+    {
+      "title": "Don't leave your key on the table. You _______ to take it.",
+      "a_1": "will forget",
+      "a_2": "won't forget",
+      "a_3": "are gonna forget",
+      "a_4": "No right answer",
+      "right_a": "will forget"
+    },
+    {
+      "title": "If it doesn't rain tomorrow morning, we _______ our umbrellas.",
+      "a_1": "will take",
+      "a_2": "won't take",
+      "a_3": "are gonna take",
+      "a_4": "No right answer",
+      "right_a": "are gonna take"
+    },
+    {
+      "title": "Anna _______ on holiday next week. She'll be at work, I suppose.",
+      "a_1": "will be",
+      "a_2": "won't be",
+      "a_3": "is gonna be",
+      "a_4": "No right answer",
+      "right_a": "won't be"
+    },
+    {
+      "title": "I'm told you are ill. I hope you better as soon as possible.",
+      "a_1": "will feel",
+      "a_2": "won't feel",
+      "a_3": "are gonna feel",
+      "a_4": "No right answer",
+      "right_a": "will feel"
+    },
+    {
+      "title": "I have no idea how to do it. I _______ it, I'm afraid.",
+      "a_1": "won't make",
+      "a_2": "will make",
+      "a_3": "am make",
+      "a_4": "No right answer",
+      "right_a": "won't make"
+    },
+    {
+      "title": "Oh, no. My car is broken. How _______ to the airport?",
+      "a_1": "will I get",
+      "a_2": "I'll get",
+      "a_3": "I'm getting",
+      "a_4": "No right answer",
+      "right_a": "will I get"
+    },
+    {
+      "title": "We’re going to have a picnic ________ Saturday afternoon. Would you like to come?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "I’ll be finished my work ________ an hour. Then, I can go home.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "When is the meeting? Is it ________ 2:00?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "I like to get up really early, ________ sunrise, when the birds start to sing.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "Tom’s birthday is next week, ________ January 14.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "My grandfather was born ________ the 1950s.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "Will we be ________ time, or will we miss our flight?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "My family and I like to ski ________ winter. ",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "Are there any holidays ________ October?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "Our school cafeteria opens for lunch ________ noon.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "What time does your son go to bed ________ night?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "We moved to this city ________ 2012.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "Are you going to do anything special ________ your birthday?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "on"
+    },
+    {
+      "title": "I’m not going to watch that TV show. It starts ________ midnight!",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "I love to go swimming at the beach _______ summer.",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "in"
+    },
+    {
+      "title": "What time do your children usually go to bed _______ night?",
+      "a_1": "in",
+      "a_2": "on",
+      "a_3": "at",
+      "a_4": "by",
+      "right_a": "at"
+    },
+    {
+      "title": "Why ________ playing football tomorrow?",
+      "a_1": "he not is",
+      "a_2": "he isn't",
+      "a_3": "isn't he",
+      "a_4": "No right answer",
+      "right_a": "isn't he"
+    },
+    {
+      "title": "They are _____ a new shopping mall downtown.",
+      "a_1": "opens",
+      "a_2": "openning",
+      "a_3": "oppening",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Melissa is _____ down on her bed.",
+      "a_1": "lieing",
+      "a_2": "liying",
+      "a_3": "lyes",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Look at _____ birds up there in the tree.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "Are _____ your books over there on the table?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "My umbrella is right here. _____ is my umbrella.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "this"
+    },
+    {
+      "title": "Those apples are red, but _____ apples over here are green.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "these"
+    },
+    {
+      "title": "Did you and your family stay at _____ hotel in Paris?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "What are _____ <br> (things near you)?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "_____ strawberries are delicious (the bowl is in front of me on the table).",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "these"
+    },
+    {
+      "title": "_____ party is really fun. (We’re at the party now.)",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "this"
+    },
+    {
+      "title": "_____ show we saw last week was so depressing!",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "_____ painting (that we saw yesterday) was really beautiful.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": " I really liked _____ cakes. (I’m talking about the cakes we ate last week.)",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "_____’s a great idea! (the idea you explained to me.)",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "that"
+    },
+    {
+      "title": "Make the present simple <br> (he / drive to work every day)",
+      "a_1": "He drive to work every day",
+      "a_2": "He drives to work every day",
+      "a_3": "He driving to work every day",
+      "a_4": "No right answer",
+      "right_a": "He drives to work every day"
+    },
+    {
+      "title": "Make the present simple <br> (I / not / think you're right)",
+      "a_1": "I don't thinks you're right.",
+      "a_2": "I don't think you right.",
+      "a_3": "I don't think you're right.",
+      "a_4": "No right answer",
+      "right_a": "I don't think you're right."
+    },
+    {
+      "title": "Make the present simple <br> (we / have enough time)?",
+      "a_1": "are we have enough time?",
+      "a_2": "Does we have enough time?",
+      "a_3": "Do we have enough time?",
+      "a_4": "No right answer",
+      "right_a": "Do we have enough time?"
+    },
+    {
+      "title": "Make the present simple <br> (I / eat cereal in the morning)",
+      "a_1": "I eats cereal in the morning.",
+      "a_2": "I'm eat cereal in the morning.",
+      "a_3": "I eating cereal in the morning.",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Make the present simple <br> (they / write e-mails every day)?",
+      "a_1": "Did they write e-mails every day?",
+      "a_2": "Does they write e-mails every day?",
+      "a_3": "are they write e-mails every day?",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Make the present simple <br> (you / watch a lot of TV)",
+      "a_1": "You're watching a lot of TV.",
+      "a_2": "You watches a lot of TV.",
+      "a_3": "You watch a lot of TV.",
+      "a_4": "No right answer",
+      "right_a": "You watch a lot of TV."
+    },
+    {
+      "title": "Make the present simple <br> (he / not / read the newspaper)",
+      "a_1": "He doesn't read the newspaper.",
+      "a_2": "He isn't read the newspaper.",
+      "a_3": "He didn't read the newspaper.",
+      "a_4": "No right answer",
+      "right_a": "He doesn't read the newspaper."
+    },
+    {
+      "title": "Make the present simple <br> (she / dance often)?",
+      "a_1": "Does she dances often?",
+      "a_2": "Does she dance often?",
+      "a_3": "Did she dance often?",
+      "a_4": "No right answer",
+      "right_a": "Does she dance often? "
+    },
+    {
+      "title": "Make the present simple <br> (where / I / come on Mondays)?",
+      "a_1": "Where am I come on Mondays?",
+      "a_2": "Where does I come on Mondays?",
+      "a_3": "Where do I comes on Mondays?",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Make the present simple <br> (what / you / do at the weekend)?",
+      "a_1": "What does you do at the weekend?",
+      "a_2": "What do you does at the weekend?",
+      "a_3": "What did you do at the weekend?",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "(What is the correct plural) <br> Most (houswife) _____ work more than ten hours a day at home.",
+      "a_1": "housewifes",
+      "a_2": "houseswife",
+      "a_3": "housewives",
+      "a_4": "No right answer",
+      "right_a": "housewives"
+    },
+    {
+      "title": "(What is the correct plural) <br> Where did you put the (knife) _____ ? <br>On the (shelf) _____ .",
+      "a_1": "knifes, shelfes",
+      "a_2": "knives, shelfes",
+      "a_3": "knives, shelves",
+      "a_4": "No right answer",
+      "right_a": "knives, shelves"
+    },
+    {
+      "title": "(What is the correct plural) <br> (Goose) _____ like water.",
+      "a_1": "Gooses",
+      "a_2": "Gooseses",
+      "a_3": "Geese",
+      "a_4": "No right answer",
+      "right_a": "Geese"
+    },
+    {
+      "title": "Write the plural <br> (city)",
+      "a_1": "cities",
+      "a_2": "city",
+      "a_3": "cityes",
+      "a_4": "No right answer",
+      "right_a": "cities"
+    },
+    {
+      "title": "Write the plural <br> life",
+      "a_1": "lives",
+      "a_2": "lifes",
+      "a_3": "live",
+      "a_4": "No right answer",
+      "right_a": "lives"
+    },
+    {
+      "title": "Present Continuous <br> _____ they coming over for dinner?",
+      "a_1": "are",
+      "a_2": "will",
+      "a_3": "are gonna",
+      "a_4": "No right answer",
+      "right_a": "are"
+    },
+    {
+      "title": "Present Continuous <br> Maxwell _____ not sleeping on our sofa.",
+      "a_1": "is",
+      "a_2": "will",
+      "a_3": "is gonna",
+      "a_4": "No right answer",
+      "right_a": "is"
+    },
+    {
+      "title": "My mother-in-law is _____ at our house this week.",
+      "a_1": "stay",
+      "a_2": "staying",
+      "a_3": "be staying",
+      "a_4": "staying",
+      "right_a": "staying"
+    },
+    {
+      "title": "I _____ my dinner right now.",
+      "a_1": "eat",
+      "a_2": "eating",
+      "a_3": "am eating",
+      "a_4": "No right answer",
+      "right_a": "am eating"
+    },
+    {
+      "title": "My sister _____ Spanish.",
+      "a_1": "learn",
+      "a_2": "is learning",
+      "a_3": "learning",
+      "a_4": "No right answer",
+      "right_a": "is learning"
+    },
+    {
+      "title": "I _____ at the hair salon until September.",
+      "a_1": "work",
+      "a_2": "be working",
+      "a_3": "am working",
+      "a_4": "No right answer",
+      "right_a": "am working"
+    },
+    {
+      "title": "We _____ at a fancy restaurant tonight. Jason decided this yesterday.",
+      "a_1": "eat",
+      "a_2": "are eating",
+      "a_3": "eats",
+      "a_4": "No right answer",
+      "right_a": "are eating"
+    },
+    {
+      "title": "Why ________ playing football tomorrow?",
+      "a_1": "he not is",
+      "a_2": "he isn't",
+      "a_3": "isn't he",
+      "a_4": "No right answer",
+      "right_a": "isn't he"
+    },
+    {
+      "title": "They are _____ a new shopping mall downtown.",
+      "a_1": "opens",
+      "a_2": "openning",
+      "a_3": "oppening",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Melissa is _____ down on her bed.",
+      "a_1": "lieing",
+      "a_2": "liying",
+      "a_3": "lyes",
+      "a_4": "No right answer",
+      "right_a": "No right answer"
+    },
+    {
+      "title": "Look at _____ birds up there in the tree.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "Are _____ your books over there on the table?",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "those"
+    },
+    {
+      "title": "My umbrella is right here. _____ is my umbrella.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "this"
+    },
+    {
+      "title": "Those apples are red, but _____ apples over here are green.",
+      "a_1": "this",
+      "a_2": "that",
+      "a_3": "these",
+      "a_4": "those",
+      "right_a": "these"
+    },
+    {
+      "title": "Where is _______ classroom? We can’t find it.",
+      "a_1": "ours",
+      "a_2": "them",
+      "a_3": "theirs",
+      "a_4": "our",
+      "right_a": "our"
+    },
+    {
+      "title": "What kind of possessive is hers?",
+      "a_1": "possessive adjective",
+      "a_2": "possessive pronoun",
+      "a_3": "possessive verb",
+      "a_4": "No right answer",
+      "right_a": "possessive adjective"
+    },
+    {
+      "title": "The bicycles were _________, so they rode them home after school.",
+      "a_1": "ours",
+      "a_2": "theirs",
+      "a_3": "our",
+      "a_4": "their",
+      "right_a": "theirs"
+    },
+    {
+      "title": "Excuse me. This phone is __________. You forgot to take it with you.",
+      "a_1": "your",
+      "a_2": "yours",
+      "a_3": "mine",
+      "a_4": "my",
+      "right_a": "yours"
+    },
+    {
+      "title": "Ana and Elsa like _______ new teacher.",
+      "a_1": "their",
+      "a_2": "hers",
+      "a_3": "theirs",
+      "a_4": "her",
+      "right_a": "their"
+    },
+    {
+      "title": "Do you think your father likes _____birthday present?",
+      "a_1": "my",
+      "a_2": "your",
+      "a_3": "his",
+      "a_4": "our",
+      "right_a": "his"
+    },
+    {
+      "title": "Brazil is located in South America. _______ capital city is Brasilia.",
+      "a_1": "their",
+      "a_2": "theirs",
+      "a_3": "its",
+      "a_4": "it",
+      "right_a": "its"
+    }
+  ]
+}

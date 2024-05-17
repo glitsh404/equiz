@@ -1,0 +1,8 @@
+@use "../helpers/var" as *;
+
+.head1 {
+  color: $main_color;
+  font-weight: 600;
+  font-size: 50px;
+  margin-left: 20px;
+}

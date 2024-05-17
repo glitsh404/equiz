@@ -1,0 +1,50 @@
+@use "var" as *;
+@use "mixins" as m;
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $main_font;
+  overflow-x: hidden;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  transition: all $trans;
+  padding: 0;
+  margin: 0;
+}
+
+.parent-center {
+  @include m.grid_flex(column);
+  width: 50%;
+  margin: 40px auto;
+}
+
+input[data-correct] + label {
+  color: #4BB543;
+  width: 100%;
+  border: 2px solid rgba(#4BB543, 0.8);
+  cursor: not-allowed !important;
+}
+
+.not::after, .not::before {
+  opacity: 0 !important;
+  cursor: not-allowed !important;
+}
+
+.not {
+  width: 100%;
+  cursor: not-allowed !important;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

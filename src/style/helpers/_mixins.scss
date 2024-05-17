@@ -1,0 +1,9 @@
+@use "../helpers/var" as *;
+// -------------- ~~ please if you don't use mixin delete it ~~ -----------------------
+// for grid your app
+@mixin grid_flex($fd: row, $jc: space-between) {
+  display: flex;
+  flex-direction: $fd;
+  flex-wrap: wrap;
+  justify-content: $jc;
+}

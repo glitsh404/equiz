@@ -1,0 +1,60 @@
+@use "../helpers/var" as *;
+
+.dark {
+  background: #2d2d2d !important;
+  color: $dark_mode_color !important;
+
+  .chapters-container {
+    background: #2d2d2d !important;
+  }
+
+  .quiz-info,
+  .custom_radio,
+  .bullets,
+  .msg,
+  .main-btn,
+  .chapter-card {
+    color: white !important;
+    border: $dark_mode_color !important;
+    box-shadow: 0 7px 93px 0 $dark_mode_second_color !important;
+  }
+
+  .quiz-info,
+  .custom_radio,
+  .bullets {
+    background: rgba($main_color, 0.1);
+  }
+
+  h1, h2, h3, p, .reset-btn, .chapters-btn {
+    color: white !important;
+  }
+
+  .reset-btn, .chapters-btn {
+    border-color: rgb(255 131 131 / 47%) !important;
+  }
+
+  .counter {
+    background: $dark_mode_color !important;
+  }
+
+  #theme {
+    box-shadow: inset 0 0 2.5px 2px $dark_mode_second_color;
+  }
+
+  .alert-frame {
+    background: #2d2d2d !important;
+
+    .alert-title {
+      color: white !important;
+    }
+
+    .alert-message {
+      color: white !important;
+    }
+  }
+
+  .close {
+    color: white !important;
+  }
+
+}

@@ -1,0 +1,14 @@
+@use "../helpers/var" as *;
+
+.counter {
+  height: max-content;
+  padding: 33px 20px;
+  background: $sec_color;
+  color: white;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin: 0;
+}

@@ -1,0 +1,393 @@
+@use "../helpers/var" as *;
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.buttons-grandfather {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+
+// close button
+.close {
+  position: absolute;
+  top: 5px;
+  right: 30px;
+  font-size: 22px;
+  cursor: pointer;
+  color: rgba(black, 0.6) !important;
+
+  &:hover {
+    transform: rotate(360deg);
+    color: black;
+  }
+}
+
+// what button
+.what {
+  color: $sec_color;
+  font-size: 20px;
+  position: absolute;
+  right: 25px;
+  cursor: pointer;
+  top: -4px;
+}
+
+// the main buttons ( levels buttons )
+.main-btn {
+  position: relative;
+  cursor: pointer;
+  display: inline-flex;
+  padding: 30px 61px;
+  background: rgba($main_color, 0.1);
+
+  font-size: 24px;
+  border-radius: 4px;
+  text-decoration: none;
+  text-transform: uppercase;
+  overflow: hidden;
+  margin: 25px;
+  font-family: "Roboto", sans-serif;
+  filter: hue-rotate(0deg);
+  border: 2px solid $main_color;
+  transition: all 0.1s linear;
+  color: $main_color;
+  text-align: center;
+  align-items: center;
+
+  .txt {
+    width: 100%;
+    height: 100%;
+    text-align: left;
+  }
+
+  .questions-count {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 16px;
+    border-bottom: 1px solid rgba($main_color, 0.2);
+    padding-bottom: 3px;
+  }
+
+  .box {
+    position: relative;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    .percent {
+      position: relative;
+      width: 150px;
+      height: 150px;
+
+      svg {
+        position: relative;
+        width: 150px;
+        height: 150px;
+
+        circle {
+          width: 150px;
+          height: 150px;
+          fill: none;
+          stroke-width: 10;
+          stroke: #000;
+          transform: translate(5px, 5px);
+          stroke-dasharray: 440;
+          stroke-dashoffset: 440;
+          stroke-linecap: round;
+        }
+
+        circle:nth-child(1) {
+          stroke-dashoffset: 0;
+          stroke: #f3f3f3;
+        }
+
+        circle:nth-child(2) {
+          // put the percent value in this place calc( 440 - (440 * value) / 100)
+          //stroke-dashoffset: calc(440 - (440 * 60) / 100);
+          stroke: $main_color;
+        }
+      }
+
+      .number {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #111;
+
+        .locked {
+          width: 110%;
+          height: 110%;
+        }
+
+        h2 {
+          font-size: 34px;
+
+          p {
+            display: inline-block;
+            font-size: 24px;
+          }
+        }
+      }
+    }
+
+    .text {
+      padding: 10px 0 0;
+      color: #999;
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
+  }
+
+  &:hover {
+    border: 1px solid transparent;
+
+    span {
+      position: absolute;
+      display: block;
+
+      &:nth-child(1) {
+        filter: hue-rotate(0deg);
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 3px;
+        background: linear-gradient(90deg, transparent, #3a86ff);
+        animation: animate1 1s linear infinite;
+      }
+
+      @keyframes animate1 {
+        0% {
+          left: -100%;
+        }
+        50%,
+        100% {
+          left: 100%;
+        }
+      }
+
+      &:nth-child(2) {
+        filter: hue-rotate(60deg);
+        top: -100%;
+        right: 0;
+        width: 3px;
+        height: 100%;
+        background: linear-gradient(180deg, transparent, #3a86ff);
+        animation: animate2 1s linear infinite;
+        animation-delay: 0.25s;
+      }
+
+      @keyframes animate2 {
+        0% {
+          top: -100%;
+        }
+        50%,
+        100% {
+          top: 100%;
+        }
+      }
+
+      &:nth-child(3) {
+        filter: hue-rotate(120deg);
+        bottom: 0;
+        right: 0;
+        width: 100%;
+
+        background: linear-gradient(270deg, transparent, #3a86ff);
+        animation: animate3 1s linear infinite;
+        animation-delay: 0.5s;
+      }
+
+      @keyframes animate3 {
+        0% {
+          right: -100%;
+          height: 3px;
+        }
+        50%,
+        100% {
+          height: 2px;
+          right: 100%;
+        }
+      }
+
+      &:nth-child(4) {
+        filter: hue-rotate(300deg);
+        bottom: -100%;
+        left: 0;
+        width: 3px;
+        height: 100%;
+        background: linear-gradient(360deg, transparent, #3a86ff);
+        animation: animate4 1s linear infinite;
+        animation-delay: 0.75s;
+      }
+
+      @keyframes animate4 {
+        0% {
+          bottom: -100%;
+        }
+        50%,
+        100% {
+          bottom: 100%;
+        }
+      }
+    }
+  }
+}
+
+.main-btn[data-disable] {
+  cursor: not-allowed;
+  opacity: 0.8;
+  border: 2px solid $sec_color;
+  background: rgba($sec_color, 0.2) !important;
+
+  &:hover {
+    background: rgba($sec_color, 0.3) !important;
+
+    span {
+      display: none;
+    }
+  }
+}
+
+// submit button ( in the quiz template )
+
+.submit-btn {
+  font-family: inherit;
+  font-size: 20px;
+  background: $main_color;
+  color: white;
+  padding: 0.7em 1em;
+  padding-left: 0.9em;
+  display: flex;
+  align-items: center;
+  border: none;
+  border-radius: 16px;
+  overflow: hidden;
+  transition: all 0.2s;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+
+  span {
+    display: block;
+    margin-left: 0.3em;
+    transition: all 0.3s ease-in-out;
+  }
+
+  svg {
+    display: block;
+    transform-origin: center center;
+    transition: transform 0.3s ease-in-out;
+  }
+
+  &:hover .svg-wrapper {
+    animation: fly-1 0.6s ease-in-out infinite alternate;
+  }
+
+  &:hover svg {
+    transform: translateX(1.2em) rotate(45deg) scale(1.1);
+  }
+
+  &:hover span {
+    transform: translateX(5em);
+  }
+
+  &:active {
+    transform: scale(0.95);
+  }
+}
+
+@keyframes fly-1 {
+  from {
+    transform: translateY(0.1em);
+  }
+
+  to {
+    transform: translateY(-0.1em);
+  }
+}
+
+// important buttons
+.custom-btn {
+  width: 130px;
+  height: 40px;
+  padding: 10px 25px;
+  border: 2px solid #000;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+}
+
+/* 5 */
+.btn-5 {
+  background: #000;
+  color: #fff;
+  line-height: 42px;
+  padding: 0;
+  border: none;
+
+  &:hover {
+    background: transparent;
+    color: #000;
+    box-shadow: -7px -7px 20px 0px #fff9,
+    -4px -4px 5px 0px #fff9,
+    7px 7px 20px 0px #0002,
+    4px 4px 5px 0px #0001;
+  }
+
+  &:before,
+  &:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 2px;
+    width: 0;
+    background: #000;
+    transition: 400ms ease all;
+  }
+
+  &:after {
+    right: inherit;
+    top: inherit;
+    left: 0;
+    bottom: 0;
+  }
+
+  &:hover:before,
+  &:hover:after {
+    width: 100%;
+    transition: 800ms ease all;
+  }
+}
+
+// important buttons
+
+// the reset button
+.reset-btn {
+  color: $main_color;
+  width: max-content;
+  margin-left: 25px;
+  cursor: pointer;
+
+  &:hover {
+    border-bottom: 1px solid $main_color;
+  }
+}
+
+// chapters button
+.chapters-btn {
+  @extend .reset-btn;
+  margin-top: 10px;
+}
